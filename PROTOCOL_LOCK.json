@@ -1,0 +1,147 @@
+{
+  "locked_utc": "2026-10-11T18:39:13+00:00",
+  "files": {
+    "config/protocol.yaml": "234546c701c52e08e994e8dc556fcf1e9709c8139433ba892855179d2f0aca42",
+    "config/genesets_frozen.json": "0272b3fcb20903381ed1e88d0de61df797ee56c0b039d11fbe4c25a54edf0a30",
+    "config/sources.json": "f3f15e6a2e0d3a362b112c1a42383340029d17111ceb7c796ab742292b627eee",
+    "src/biobridge/__init__.py": "f1fe41a0ea43fc1e88cd215c323ae1107fb30ef3792f38668f2acaa2bc765a9e",
+    "src/biobridge/deepsurv_worker.py": "a88f5c56c5e16b77b751e58d43c3a52249e9beec18aeae4bbbb72b35fc49c568",
+    "src/biobridge/dl_worker.py": "7dd9e703566ea9ed854140c5c4f8405b86fcb2ecd4122faf270e50a827e9f8ff",
+    "src/biobridge/download.py": "ab02d11be574b772fb023011bf35a55ec68fa1eafb92694ef1661d85dc0b96fa",
+    "src/biobridge/experiment.py": "71ac2d47d530d09f7b4db920741b7b3baec800a8ebba95d7c054cbf5811d5a45",
+    "src/biobridge/external.py": "f0bd91ede2a6bdcf206d28f878991c836ef96069e91b9b2108a65db36fea98d9",
+    "src/biobridge/features.py": "768f965122b3176d92eb8fd5134e69bc20a263952723ab85fa83fb6651bc67df",
+    "src/biobridge/metrics.py": "045a49552ed326e2189fb2a076b947813c74740bd08ad6c079bc27d211f7d0a4",
+    "src/biobridge/models.py": "61d1c3ca15923a66a7946cb2671c9cfee35d4b7488721ec4e42c7000410ac55d",
+    "src/biobridge/paper.py": "aa1f542ffaa7afc04b520987b046a4366cab826185b6aa71482463dc0997fd9c",
+    "src/biobridge/prepare.py": "efdf1c3af8226f2141f1c0f1632f19a3a9a2dc83c6b8983d004739eaeefef8aa",
+    "src/biobridge/report.py": "e725abf7158b15e3952b0ec373e61b9453d6d2aac7422f1feeb3173d45aa1285",
+    "src/biobridge/utils.py": "045c57e14b4532232d56b8ebeec40ac6dcc96192dddf3cd1d717dda971115ad4",
+    "scripts/00_lock_protocol.py": "1888fbf37c2beda7881149b8a6b1e28969a03e4c95b80f0eb5bbfa531e4c4757",
+    "scripts/01_download.py": "327834f32129aa8d0661b71229372179fa9d8c8fc962226519d5cb14fc53a637",
+    "scripts/02_prepare.py": "afe0dcb0b4c66bc43bb7c56c3ccb1ed0a2be2714b0b240c5528d8b1107bcfea6",
+    "scripts/03_check_genesets.py": "907ba2cd7902dc12b153b3e02b57507ac7564ea97e98efa297c0e0d625ebc220",
+    "scripts/04_make_folds.py": "de997d9eb6e9d4a5b51c5c8db59f65d70abd5b068bf4ddb5598328464499e985",
+    "scripts/05_develop.py": "5f1254ecf4ce440a637f2e87f06506fb648faf83afbac121c6978f38b386738d",
+    "scripts/06_report_development.py": "4ba8ca8c94220524601d6f25547125592bd55a2d701138e27973fd22a75f1e2f",
+    "scripts/07_external_validation.py": "d6501f54115e2722f34c11e90b60cd2a4cb5b15c1c3b95e70f545667f0257265",
+    "scripts/08_exploratory_fusion.py": "b87cc685b1c272407d65714286af58a8296ad578d862107e71ca9339d35884da",
+    "scripts/09_learning_curve.py": "b7e6f2a4f0a029127463c8abe6339a050306985f8ba4bbdd4a3d49e5746e3e32",
+    "scripts/10_clinical_utility.py": "4fcbb158ee48ea161bb8acac2cfd9c562dbbf1575881387fb9106c0afb9d2336",
+    "scripts/11_shap.py": "908a218508184468a4356ccccf3bee06039d142322c50977802cfadbae26aca2",
+    "scripts/12_figures_tables.py": "a30bb3a0edd449f5c5426ec04f34d64576902b54d78f9bd5cf03c2c515396257",
+    "scripts/13_recalibration.py": "8461d0bfa71cae2c0034866856efa3d5028914f21811ee58e38e39d9e23767f5",
+    "scripts/14_supplementary_tables.py": "d060a75ed05de30f60e1cfda7ecbebd19d8e243828f5f35b55f788ae4b42fe68",
+    "scripts/15_figure1_design.py": "8dbe0df40d8839b66170ec634cd62dc3f48ec428e2d6dfc590d87d18b0c7b31d",
+    "scripts/16_new_cohort_confirmatory.py": "edb1a56fe2ebd2a786f4c3f7e822acafbd3d61d7680375b6df7ec8ff50347879",
+    "scripts/17_additional_dl.py": "84ff8942827768409857f416e6e729743e7b657863ebe6ccffb6faaedc0e83c7",
+    "scripts/_bootstrap.py": "57a79de4f9a93f5bcb3f00c3b5044f96255087962106be7ba3a71e84cea24249"
+  },
+  "history": [
+    {
+      "time_utc": "2026-10-10T13:04:58+00:00",
+      "kind": "initial_lock",
+      "reason": null,
+      "changed": [
+        "config/genesets_frozen.json",
+        "config/protocol.yaml",
+        "config/sources.json",
+        "scripts/00_lock_protocol.py",
+        "scripts/01_download.py",
+        "scripts/02_prepare.py",
+        "scripts/03_check_genesets.py",
+        "scripts/04_make_folds.py",
+        "scripts/05_develop.py",
+        "scripts/06_report_development.py",
+        "scripts/07_external_validation.py",
+        "scripts/_bootstrap.py",
+        "src/biobridge/__init__.py",
+        "src/biobridge/download.py",
+        "src/biobridge/experiment.py",
+        "src/biobridge/external.py",
+        "src/biobridge/features.py",
+        "src/biobridge/metrics.py",
+        "src/biobridge/models.py",
+        "src/biobridge/prepare.py",
+        "src/biobridge/report.py",
+        "src/biobridge/utils.py"
+      ]
+    },
+    {
+      "time_utc": "2026-10-10T19:51:56+00:00",
+      "kind": "amendment",
+      "reason": "DeepSurv macOS OpenMP kilitlenmesi nedeniyle izole alt s\u00fcre\u00e7te \u00e7al\u0131\u015ft\u0131r\u0131l\u0131yor; 30 dk zaman a\u015f\u0131m\u0131 eklendi. Model, \u0131zgara ve se\u00e7im kural\u0131 de\u011fi\u015fmedi. Hen\u00fcz tam geli\u015ftirme ko\u015fusu yap\u0131lmad\u0131.",
+      "changed": [
+        "src/biobridge/deepsurv_worker.py",
+        "src/biobridge/experiment.py",
+        "src/biobridge/external.py",
+        "src/biobridge/models.py"
+      ]
+    },
+    {
+      "time_utc": "2026-10-11T15:08:35+00:00",
+      "kind": "amendment",
+      "reason": "Ke\u015fifsel analiz eklendi: Witowski 2026 tarz\u0131 e\u015fit a\u011f\u0131rl\u0131kl\u0131 XGBoost f\u00fczyonu (F2: AFT genler+mod\u00fcller; F4: AFT+Cox genler+mod\u00fcller). Plan 08_exploratory_fusion.py i\u00e7inde sabit; yeniden e\u011fitim yok; sonu\u00e7lar bu kay\u0131ttan sonra hesaplanacak.",
+      "changed": []
+    },
+    {
+      "time_utc": "2026-10-11T15:11:55+00:00",
+      "kind": "amendment",
+      "reason": "Ke\u015fifsel analiz eklendi: Witowski 2026 tarz\u0131 e\u015fit a\u011f\u0131rl\u0131kl\u0131 XGBoost f\u00fczyonu (F2: AFT genler+mod\u00fcller; F4: AFT+Cox genler+mod\u00fcller). Plan 08_exploratory_fusion.py i\u00e7inde sabit; yeniden e\u011fitim yok; sonu\u00e7lar bu kay\u0131ttan sonra hesaplanacak.",
+      "changed": [
+        "scripts/08_exploratory_fusion.py"
+      ]
+    },
+    {
+      "time_utc": "2026-10-11T16:57:24+00:00",
+      "kind": "amendment",
+      "reason": "Makale analizleri eklendi: \u00f6\u011frenme e\u011frisi (H1, H2 \u00f6nceden yaz\u0131l\u0131), klinik de\u011fer, SHAP, \u015fekiller. Planlar betiklerin i\u00e7inde sabit; sonu\u00e7lar bu kay\u0131ttan sonra hesaplanacak.",
+      "changed": [
+        "scripts/09_learning_curve.py",
+        "scripts/10_clinical_utility.py",
+        "scripts/11_shap.py",
+        "scripts/12_figures_tables.py",
+        "src/biobridge/paper.py"
+      ]
+    },
+    {
+      "time_utc": "2026-10-11T17:41:02+00:00",
+      "kind": "amendment",
+      "reason": "Son paket: ke\u015fifsel kesi\u015fim yeniden kalibrasyonu (13), ek tablolar (14), \u015eekil 1 (15), yeni kohort do\u011frulay\u0131c\u0131 analizi (16; birincil hipotez F2 vs XGB-AFT genler, kohort verisi g\u00f6r\u00fclmeden \u00f6nce eklendi).",
+      "changed": [
+        "scripts/13_recalibration.py",
+        "scripts/14_supplementary_tables.py",
+        "scripts/15_figure1_design.py",
+        "scripts/16_new_cohort_confirmatory.py"
+      ]
+    },
+    {
+      "time_utc": "2026-10-11T17:46:30+00:00",
+      "kind": "amendment",
+      "reason": "\u015eekil d\u00fczenlemesi (12): yaln\u0131zca g\u00f6rsel de\u011fi\u015fiklikler; s\u0131ralama, etiketler, \u00f6\u011frenme e\u011frisine fark paneli (C). Analizlerde de\u011fi\u015fiklik yok.",
+      "changed": [
+        "scripts/12_figures_tables.py"
+      ]
+    },
+    {
+      "time_utc": "2026-10-11T18:39:13+00:00",
+      "kind": "amendment",
+      "reason": "Ek kar\u015f\u0131la\u015ft\u0131rma modelleri (birincil analizden sonra): 5 derin \u00f6\u011frenme modeli (DeepHit, Logistic-Hazard, N-MTLR, PC-Hazard, Neural AFT); DeepSurv ile ayn\u0131 birimler, girdiler, \u0131zgara ve erken durdurma; temel risk ba\u015flatmas\u0131; hipotezleri de\u011fi\u015ftirmez.",
+      "changed": [
+        "scripts/17_additional_dl.py",
+        "src/biobridge/dl_worker.py"
+      ]
+    }
+  ],
+  "environment": {
+    "python": "3.12.10",
+    "platform": "macOS-27.0.1-arm64-arm-64bit",
+    "numpy": "2.5.3",
+    "pandas": "3.0.6",
+    "scipy": "1.18.1",
+    "sklearn": "1.9.1",
+    "sksurv": "0.28.0",
+    "xgboost": "3.4.1",
+    "torch": "2.14.1"
+  }
+}

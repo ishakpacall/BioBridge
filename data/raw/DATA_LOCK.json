@@ -1,0 +1,79 @@
+{
+  "metabric_patient": {
+    "file": "metabric_patient.txt",
+    "url": "https://media.githubusercontent.com/media/cBioPortal/datahub/master/public/brca_metabric/data_clinical_patient.txt",
+    "sha256": "2a6bbadc6e4b2b07c0505559d438da959fc5c9aba55c7194abc394e2d6454995",
+    "bytes": 408387,
+    "pinned": true
+  },
+  "metabric_sample": {
+    "file": "metabric_sample.txt",
+    "url": "https://media.githubusercontent.com/media/cBioPortal/datahub/master/public/brca_metabric/data_clinical_sample.txt",
+    "sha256": "9a2291e065e2a0a5337b4eaeb09836e70b1bc3e1ed17714a013b53515697e6dc",
+    "bytes": 299020,
+    "pinned": true
+  },
+  "metabric_expression": {
+    "file": "metabric_expression.txt",
+    "url": "https://media.githubusercontent.com/media/cBioPortal/datahub/master/public/brca_metabric/data_mrna_illumina_microarray.txt",
+    "sha256": "4470069455a4ed38ffed5d12513e468bbf5b9a57d66fa1162e7bd9a64889ab7a",
+    "bytes": 689254846,
+    "pinned": true
+  },
+  "tcga_patient": {
+    "file": "tcga_patient.txt",
+    "url": "https://media.githubusercontent.com/media/cBioPortal/datahub/master/public/brca_tcga_pan_can_atlas_2018/data_clinical_patient.txt",
+    "sha256": "13c939025794ce21905ccb3409865fa08506b2283b432f8e3a3022f60a4c7682",
+    "bytes": 341851,
+    "pinned": false
+  },
+  "tcga_sample": {
+    "file": "tcga_sample.txt",
+    "url": "https://media.githubusercontent.com/media/cBioPortal/datahub/master/public/brca_tcga_pan_can_atlas_2018/data_clinical_sample.txt",
+    "sha256": "e96e6e4895a6ddcdb31d508a9e8f5676ca78ce396d2f82cd111a286a17e75ca6",
+    "bytes": 204137,
+    "pinned": false
+  },
+  "tcga_expression": {
+    "file": "tcga_expression.txt",
+    "url": "https://media.githubusercontent.com/media/cBioPortal/datahub/master/public/brca_tcga_pan_can_atlas_2018/data_mrna_seq_v2_rsem.txt",
+    "sha256": "aba030e1f04a196ee6c2118ed37e777b533f7fd24ffd1bcbde908dcee33b2eb5",
+    "bytes": 154654165,
+    "pinned": false
+  },
+  "scanb_gpl11154": {
+    "file": "scanb_gpl11154.txt.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE96nnn/GSE96058/matrix/GSE96058-GPL11154_series_matrix.txt.gz",
+    "sha256": "47e4e488911f688a9c9ac7a0bb1223a22259ca1dcae2a1a7501ae5b5e55794ce",
+    "bytes": 218719,
+    "pinned": false
+  },
+  "scanb_gpl18573": {
+    "file": "scanb_gpl18573.txt.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE96nnn/GSE96058/matrix/GSE96058-GPL18573_series_matrix.txt.gz",
+    "sha256": "d7a77604b78dc01235ebee55e39aceb4ff24ecae4fd540e3fa2a773ddb8be091",
+    "bytes": 42331,
+    "pinned": false
+  },
+  "scanb_expression": {
+    "file": "scanb_expression.csv.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE96nnn/GSE96058/suppl/GSE96058_gene_expression_3273_samples_and_136_replicates_transformed.csv.gz",
+    "sha256": "3c717baf7960e1f1477a72744a399a42fabba113c9e7ecb3d55997574d7e9732",
+    "bytes": 591676211,
+    "pinned": false
+  },
+  "gse20685_matrix": {
+    "file": "gse20685_matrix.txt.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE20nnn/GSE20685/matrix/GSE20685_series_matrix.txt.gz",
+    "sha256": "e818a4d5834e20bbcf01de515caf856c394abb36a02b9cccc95be05c22d0a279",
+    "bytes": 136733806,
+    "pinned": false
+  },
+  "gpl570_annot": {
+    "file": "gpl570.annot.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/platforms/GPLnnn/GPL570/annot/GPL570.annot.gz",
+    "sha256": "d7cd44352127b1e34f3a720ebea86093ef255a38f1612a85a2962b71bde8f394",
+    "bytes": 8471521,
+    "pinned": false
+  }
+}

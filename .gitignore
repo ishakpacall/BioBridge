@@ -1,0 +1,23 @@
+# data and results are never committed (repository licences; size)
+data/
+data_synthetic/
+results/
+results_*/
+publication/
+*.log
+
+# environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+.idea/
+.vscode/
+
+# manuscript material (not public before publication) and archives
+publication_assets/
+figures_preview/
+*.zip

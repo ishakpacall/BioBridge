@@ -1,0 +1,62 @@
+# BioBridge v2 study protocol. Locked by scripts/00_lock_protocol.py BEFORE any model is trained.
+# Changing anything below after locking requires a documented amendment (PROTOCOL_AMENDMENTS.md).
+study: BioBridge-K2
+version: 2.0.0
+endpoint: all-cause overall survival, months (OS_MONTHS / OS_STATUS or cohort equivalent)
+
+disclosure: >
+  A pilot on the same development cohorts (METABRIC, TCGA-BRCA) motivated the K2 hypothesis. SCAN-B and
+  GSE20685 were scored in that pilot with other models. They are therefore reported as previously examined
+  external cohorts; newly added cohorts (config: custom external) are the untouched confirmatory tests.
+
+cohorts:
+  development: [metabric, tcga]
+  external_prespecified: [scanb, gse20685]
+
+features:
+  clinical: [AGE_AT_DIAGNOSIS, NODE_POSITIVE]      # portable fields present in every cohort
+  rank_universe: genes measured in all development + pre-specified external cohorts
+  top_variance_genes: 500                          # selected on training patients only
+  cohort_standardization: true                     # label-free, per cohort (see README)
+  transfer_reference: target_cohort_unlabeled      # transfer/external: target statistics, never outcomes
+
+validation:
+  folds: 3
+  fold_seed: 20261010
+  seeds: [42, 43, 44]
+  inner_holdout_fraction: 0.25                     # stratified by event (and cohort when pooled)
+  settings: [cv_metabric, cv_tcga, transfer_metabric_to_tcga, transfer_tcga_to_metabric,
+             pooled_to_metabric, pooled_to_tcga]
+
+models:
+  threads: 4
+  xgb_max_rounds: 1200
+  xgb_patience: 75
+  forest_trees: 300
+  comparators: [coxph_clinical, coxnet, rsf, extra_trees, gbm_cox, xgb_cox, xgb_aft, deepsurv]
+  representations: [genes, modules]                 # every comparator except coxph_clinical runs on both
+  proposed: k2
+
+k2:
+  stage1: xgb_aft on clinical + module scores (same configs/selection as xgb_aft)
+  stage2_depth: 2
+  stage2_learning_rate: 0.01
+  stage2_colsample: 0.5
+  stage2_subsample: 0.8
+  stage2_min_child_weight: 20
+  stage2_reg_lambda: [30, 100]
+  stage2_drop_if_no_inner_gain: true
+
+metrics:
+  primary: harrell_cindex
+  secondary: [uno_cindex_tau, auc_36, auc_60, brier_36, brier_60]
+  uno_tau_months: 60
+  horizons_months: [36, 60]
+  bootstrap: 1000
+  bootstrap_unit: test patient within fold, stratified by event, paired across models and seeds
+
+hypotheses:
+  primary: K2 (Harrell C) > xgb_aft on genes, in each of the six development settings
+  multiplicity: Holm across the six primary contrasts
+  secondary: K2 vs every comparator/representation (exploratory, unadjusted)
+  external_primary: K2 trained on METABRIC vs xgb_aft(genes) trained on METABRIC, per external cohort

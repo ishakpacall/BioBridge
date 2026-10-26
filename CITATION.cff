@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the article and this archived release."
+title: "BioBridge: training event count and biological knowledge in cross-platform breast cancer survival prediction"
+version: 1.0.0
+date-released: "2026-10-25"
+license: MIT
+repository-code: "https://github.com/ishakpacall/BioBridge"
+authors:
+  - family-names: "Pacal"
+    given-names: "Ishak"
+    orcid: "https://orcid.org/0000-0001-6670-2169"
+    affiliation: "Igdir University"
+preferred-citation:
+  type: article
+  title: "Training event count shapes the value of biological knowledge in breast cancer survival prediction across transcriptomic platforms"
+  authors:
+    - family-names: "Pacal"
+      given-names: "Ishak"
+  journal: "Manuscript under review"
+  year: 2026

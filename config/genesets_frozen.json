@@ -1,0 +1,10688 @@
+{
+ "created_utc": "2026-10-10T12:34:23+00:00",
+ "sources": {
+  "genefu": "https://raw.githubusercontent.com/bhklab/genefu/master/data/",
+  "hgnc": "https://raw.githubusercontent.com/cBioPortal/datahub-study-curation-tools/master/gene-table-update/build-input-for-importer/hgnc_complete_set.txt",
+  "sha256": {
+   "mod1": "a96ee51d3f5f2c676ea19cbbf097c17b23ed8f50013269c351422dbab036e3d6",
+   "sig.ggi": "07ac65e10bba5f581e4ff8d39eb5c3b561372d42174ae13d386cfd2577663df2",
+   "sig.oncotypedx": "1820b10e2b28d340cd7bc000f5b201e461d8318b5398f05f6523e8ee10f214d7",
+   "pam50": "766cbeff768d725fd1c800b793d3a0e4d8b71b3fa3d15950410ef076352e7121",
+   "hgnc_complete_set": "43289e5446cc558385a39f0980271e71e8840b7fb942e32a15870365cd5b7e53"
+  }
+ },
+ "scoring": "signed mean of within-patient percentile ranks; probes collapsed to genes by mean coefficient sign",
+ "sets": {
+  "mod_ESR1": [
+   {
+    "entrez": "2099",
+    "symbols": [
+     "ESR1",
+     "ESR",
+     "ER",
+     "NR3A1",
+     "Era",
+     "ER-alpha"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "23158",
+    "symbols": [
+     "TBC1D9",
+     "KIAA0882",
+     "MDR1",
+     "GRAMD9"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "2625",
+    "symbols": [
+     "GATA3",
+     "HDR"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "771",
+    "symbols": [
+     "CA12",
+     "HsT18816"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "3169",
+    "symbols": [
+     "FOXA1",
+     "HNF3A"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "4602",
+    "symbols": [
+     "MYB",
+     "c-myb"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "7802",
+    "symbols": [
+     "DNALI1",
+     "P28",
+     "hp28",
+     "dJ423B22.5"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "18",
+    "symbols": [
+     "ABAT",
+     "GABAT",
+     "GABA-T"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "7494",
+    "symbols": [
+     "XBP1",
+     "XBP2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "57758",
+    "symbols": [
+     "SCUBE2",
+     "Cegf1",
+     "Cegb1",
+     "FLJ16792"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "2066",
+    "symbols": [
+     "ERBB4",
+     "ALS19",
+     "HER4"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "9",
+    "symbols": [
+     "NAT1",
+     "AAC1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10551",
+    "symbols": [
+     "AGR2",
+     "XAG-2",
+     "HAG-2",
+     "AG2",
+     "PDIA17"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "987",
+    "symbols": [
+     "LRBA",
+     "CDC4L",
+     "BGL",
+     "LAB300",
+     "LBA",
+     "uc.147"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "56521",
+    "symbols": [
+     "DNAJC12",
+     "JDP1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "2203",
+    "symbols": [
+     "FBP1",
+     "FBP"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "51466",
+    "symbols": [
+     "EVL",
+     "RNB6"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "51442",
+    "symbols": [
+     "VGLL1",
+     "TONDU",
+     "TDU"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "57496",
+    "symbols": [
+     "MRTFB",
+     "MKL2",
+     "MRTF-B",
+     "FLJ31823"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "7031",
+    "symbols": [
+     "TFF1",
+     "BCEI",
+     "D21S21",
+     "HPS2",
+     "pS2",
+     "pNR-2",
+     "HP1.A"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "1153",
+    "symbols": [
+     "CIRBP",
+     "CIRP"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "26227",
+    "symbols": [
+     "PHGDH",
+     "SERA",
+     "PGDH",
+     "PDG"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "1555",
+    "symbols": [
+     "CYP2B6",
+     "CYP2B",
+     "CPB6",
+     "CYPIIB6"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "6648",
+    "symbols": [
+     "SOD2",
+     "GC1",
+     "IPOB",
+     "MnSOD",
+     "GClnc1",
+     "lncRNA-GC1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "55638",
+    "symbols": [
+     "SYBU",
+     "FLJ20366",
+     "GOLSYN",
+     "KIAA1472",
+     "OCSYN",
+     "SNPHL"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "221061",
+    "symbols": [
+     "FAM171A1",
+     "C10orf38",
+     "FLJ12884",
+     "APCN"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "7033",
+    "symbols": [
+     "TFF3",
+     "HITF",
+     "ITF"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "53335",
+    "symbols": [
+     "BCL11A",
+     "EVI9",
+     "BCL11A-XL",
+     "BCL11A-L",
+     "BCL11A-S",
+     "CTIP1",
+     "HBFQTL5",
+     "ZNF856",
+     "SMARCM1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "79818",
+    "symbols": [
+     "ZNF552",
+     "FLJ21603"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "57613",
+    "symbols": [
+     "FAM234B",
+     "KIAA1467"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "8416",
+    "symbols": [
+     "ANXA9",
+     "ANX31"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "582",
+    "symbols": [
+     "BBS1",
+     "FLJ23590"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "54463",
+    "symbols": [
+     "RETREG1",
+     "FAM134B",
+     "FLJ20152",
+     "JK1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "55733",
+    "symbols": [
+     "HHAT",
+     "FLJ10724",
+     "MART-2",
+     "MART2",
+     "Skn",
+     "ski",
+     "rasp",
+     "sit",
+     "GUP2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "2674",
+    "symbols": [
+     "GFRA1",
+     "GDNFRA",
+     "RETL1",
+     "GDNFR",
+     "GFR-ALPHA-1",
+     "RET1L",
+     "TRNR1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "4478",
+    "symbols": [
+     "MSN"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "51097",
+    "symbols": [
+     "SCCPDH",
+     "CGI-49",
+     "NET11"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "54502",
+    "symbols": [
+     "RBM47",
+     "FLJ20273",
+     "NET18"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "26018",
+    "symbols": [
+     "LRIG1",
+     "LIG-1",
+     "DKFZP586O1624"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "55793",
+    "symbols": [
+     "MINDY1",
+     "FAM63A",
+     "FLJ11280",
+     "MINDY-1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "3868",
+    "symbols": [
+     "KRT16",
+     "NEPPK"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "54961",
+    "symbols": [
+     "SSH3",
+     "FLJ20515",
+     "FLJ10928"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "60481",
+    "symbols": [
+     "ELOVL5",
+     "SCA38",
+     "HELO1",
+     "dJ483K16.1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "3667",
+    "symbols": [
+     "IRS1",
+     "HIRS-1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "83439",
+    "symbols": [
+     "TCF7L1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "10950",
+    "symbols": [
+     "BTG3",
+     "ANA",
+     "tob55",
+     "APRO4",
+     "ANA/BTG3"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "3572",
+    "symbols": [
+     "IL6ST",
+     "GP130",
+     "CD130",
+     "sGP130",
+     "IL-6RB"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "4783",
+    "symbols": [
+     "NFIL3",
+     "IL3BP1",
+     "E4BP4",
+     "NFIL3A",
+     "NF-IL3A"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "51161",
+    "symbols": [
+     "C3orf18",
+     "G20"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "2296",
+    "symbols": [
+     "FOXC1",
+     "FKHL7",
+     "IRID1",
+     "FREAC3",
+     "ARA",
+     "IGDA",
+     "IHG1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "6664",
+    "symbols": [
+     "SOX11"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "5613",
+    "symbols": [
+     "PRKX",
+     "PKX1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "8543",
+    "symbols": [
+     "LMO4"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "55686",
+    "symbols": [
+     "MREG",
+     "FLJ10116",
+     "DSU",
+     "WDT2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "8100",
+    "symbols": [
+     "IFT88",
+     "TTC10",
+     "hTg737",
+     "Tg737",
+     "D13S1056E",
+     "MGC26259"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "2617",
+    "symbols": [
+     "GARS1",
+     "CMT2D",
+     "GARS",
+     "GlyRS",
+     "DSMAV"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "3945",
+    "symbols": [
+     "LDHB"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "8382",
+    "symbols": [
+     "NME5",
+     "nm23-H5",
+     "RSPH23"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10614",
+    "symbols": [
+     "HEXIM1",
+     "CLP-1",
+     "HIS1",
+     "MAQ1",
+     "EDG1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "9633",
+    "symbols": [
+     "TESMIN",
+     "MTL\u00a05.00",
+     "CXCDC2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "2568",
+    "symbols": [
+     "GABRP"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "23324",
+    "symbols": [
+     "MAN2B2",
+     "KIAA0935",
+     "EpMAN"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "55765",
+    "symbols": [
+     "INAVA",
+     "C1orf106",
+     "FLJ10901"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "5104",
+    "symbols": [
+     "SERPINA5",
+     "PLANH3",
+     "PCI",
+     "PAI3",
+     "PROCI"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "5174",
+    "symbols": [
+     "PDZK1",
+     "PDZD1",
+     "NHERF3",
+     "CAP70",
+     "CLAMP",
+     "NaPi-Cap1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "56674",
+    "symbols": [
+     "TMEM9B",
+     "C11orf15"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "1054",
+    "symbols": [
+     "CEBPG",
+     "GPE1BP",
+     "IG/EBP-1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "9120",
+    "symbols": [
+     "SLC16A6",
+     "MCT6",
+     "MCT7"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "79641",
+    "symbols": [
+     "ROGDI",
+     "FLJ22386",
+     "ROGD1",
+     "RAV2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "23303",
+    "symbols": [
+     "KIF13B",
+     "GAKIN",
+     "KIAA0639"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "2173",
+    "symbols": [
+     "FABP7",
+     "B-FABP",
+     "BLBP"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "23171",
+    "symbols": [
+     "GPD1L",
+     "KIAA0089"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "9674",
+    "symbols": [
+     "KIAA0040"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "27134",
+    "symbols": [
+     "TJP3",
+     "ZO-3"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "79921",
+    "symbols": [
+     "TCEAL4",
+     "FLJ21174",
+     "WEX7"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "54898",
+    "symbols": [
+     "ELOVL2",
+     "Ssc2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "1345",
+    "symbols": [
+     "COX6C"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "5937",
+    "symbols": [
+     "RBMS1",
+     "C2orf12",
+     "SCR2",
+     "MSSP-1",
+     "MSSP-2",
+     "MSSP-3",
+     "YC1",
+     "HCC-4",
+     "DKFZp564H0764"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "400451",
+    "symbols": [
+     "FAM174B",
+     "LOC400451",
+     "MGC102891"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "3898",
+    "symbols": [
+     "LAD1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "2530",
+    "symbols": [
+     "FUT8"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "51306",
+    "symbols": [
+     "FAM13B",
+     "C5orf5",
+     "FAM13B1",
+     "N61",
+     "KHCHP",
+     "ARHGAP49"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "25837",
+    "symbols": [
+     "RAB26"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10982",
+    "symbols": [
+     "MAPRE2",
+     "EB1",
+     "EB2"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "1632",
+    "symbols": [
+     "ECI1",
+     "DCI"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "7905",
+    "symbols": [
+     "REEP5",
+     "C5orf18",
+     "DP1",
+     "TB2",
+     "D5S346",
+     "Yip2e",
+     "POB16"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "1101",
+    "symbols": [
+     "CHAD",
+     "SLRR4A"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "323",
+    "symbols": [
+     "APBB2",
+     "FE65L",
+     "FE65L1",
+     "MGC35575"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "28958",
+    "symbols": [
+     "COA3",
+     "CCDC56",
+     "HSPC009",
+     "MITRAC12",
+     "COX25",
+     "hCOA3"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "1476",
+    "symbols": [
+     "CSTB",
+     "EPM1",
+     "STFB",
+     "PME"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "9435",
+    "symbols": [
+     "CHST2",
+     "C6ST"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "7371",
+    "symbols": [
+     "UCK2",
+     "UMPK"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "2737",
+    "symbols": [
+     "GLI3",
+     "GCPS",
+     "PHS",
+     "PAP-A",
+     "PAPA",
+     "PAPA1",
+     "PAPB",
+     "ACLS",
+     "PPDIV"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "8685",
+    "symbols": [
+     "MARCO",
+     "SCARA2",
+     "SR-A6"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "3295",
+    "symbols": [
+     "HSD17B4",
+     "MFE-2",
+     "SDR8C1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "11013",
+    "symbols": [
+     "TMSB15A",
+     "TMSL8",
+     "TMSNB"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "51604",
+    "symbols": [
+     "PIGT",
+     "PIG-T"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "6663",
+    "symbols": [
+     "SOX10",
+     "DOM",
+     "WS4",
+     "WS2E",
+     "SOX-10"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "85377",
+    "symbols": [
+     "MICALL1",
+     "MIRAB13",
+     "KIAA1668",
+     "MICAL-L1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "58495",
+    "symbols": [
+     "OVOL2",
+     "ZNF339",
+     "CHED1",
+     "bA504H3.3",
+     "HOVO2",
+     "CHED"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "1116",
+    "symbols": [
+     "CHI3L1",
+     "GP39",
+     "YKL40",
+     "YK-40"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "11001",
+    "symbols": [
+     "SLC27A2",
+     "FACVL1",
+     "FATP2",
+     "hFACVL1",
+     "VLACS",
+     "VLCS",
+     "HsT17226",
+     "ACSVL1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "25841",
+    "symbols": [
+     "ABTB2",
+     "DKFZP586C1619",
+     "BTBD22",
+     "ABTB2A"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "64080",
+    "symbols": [
+     "RBKS",
+     "DKFZp686G13268",
+     "RBSK"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "375035",
+    "symbols": [
+     "SFT2D2",
+     "UNQ512",
+     "dJ747L4.C1.2"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "10479",
+    "symbols": [
+     "SLC9A6",
+     "NHE6",
+     "KIAA0267",
+     "NHE-6"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "5002",
+    "symbols": [
+     "SLC67A1",
+     "IMPT1",
+     "ORCTL2",
+     "BWSCR1A",
+     "SLC22A18",
+     "SLC22A1L",
+     "BWR1A",
+     "TSSC5",
+     "ITM"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "8645",
+    "symbols": [
+     "KCNK5",
+     "K2p5.1",
+     "TASK-2",
+     "TASK2"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "79885",
+    "symbols": [
+     "HDAC11"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "11254",
+    "symbols": [
+     "SLC6A14"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "122616",
+    "symbols": [
+     "CLBA1",
+     "C14orf79"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "79650",
+    "symbols": [
+     "USB1",
+     "C16orf57",
+     "FLJ13154",
+     "HVSL1",
+     "Mpn1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "23321",
+    "symbols": [
+     "TRIM2",
+     "KIAA0517",
+     "RNF86",
+     "CMT2R"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "23327",
+    "symbols": [
+     "NEDD4L",
+     "KIAA0439",
+     "RSP5",
+     "NEDD4-2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "22977",
+    "symbols": [
+     "AKR7A3"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "8581",
+    "symbols": [
+     "LY6D",
+     "E48"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "8842",
+    "symbols": [
+     "PROM1",
+     "PROML1",
+     "MCDR2",
+     "STGD4",
+     "AC133",
+     "CD133",
+     "RP41",
+     "CORD12"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "4953",
+    "symbols": [
+     "ODC1",
+     "ODC"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "55544",
+    "symbols": [
+     "RBM38",
+     "RNPC1",
+     "HSRNASEB",
+     "SEB4D",
+     "seb4B",
+     "dJ800J21.2"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "55663",
+    "symbols": [
+     "ZNF446",
+     "ZKSCAN20",
+     "FLJ20626",
+     "ZSCAN52"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "27124",
+    "symbols": [
+     "INPP5J",
+     "PIB5PA",
+     "INPP5",
+     "PIPP"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "6715",
+    "symbols": [
+     "SRD5A1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "51809",
+    "symbols": [
+     "GALNT7",
+     "GALNAC-T7"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "89927",
+    "symbols": [
+     "BMERB1",
+     "C16orf45",
+     "FLJ32618"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "1827",
+    "symbols": [
+     "RCAN1",
+     "DSCR1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "51706",
+    "symbols": [
+     "CYB5R1",
+     "NQO3A2",
+     "humb5R2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "3383",
+    "symbols": [
+     "ICAM1",
+     "BB2",
+     "CD54"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "5806",
+    "symbols": [
+     "PTX3",
+     "TNFAIP5",
+     "TSG-14"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "9501",
+    "symbols": [
+     "RPH3AL",
+     "Noc2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "3613",
+    "symbols": [
+     "IMPA2"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "7568",
+    "symbols": [
+     "ZNF20",
+     "KOX13"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "6280",
+    "symbols": [
+     "S100A9",
+     "CAGB",
+     "CFAG",
+     "P14",
+     "NIF",
+     "LIAG",
+     "MRP14",
+     "MAC387",
+     "60B8AG",
+     "CGLB",
+     "MRP-14",
+     "S100-A9"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "22929",
+    "symbols": [
+     "SEPHS1",
+     "SPS",
+     "SPS1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "81563",
+    "symbols": [
+     "C1orf21",
+     "PIG13"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "1389",
+    "symbols": [
+     "CREBL2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "1410",
+    "symbols": [
+     "CRYAB",
+     "CRYA2",
+     "HSPB5"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "10884",
+    "symbols": [
+     "MRPS30",
+     "PDCD9",
+     "PAP",
+     "mL65"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "55614",
+    "symbols": [
+     "KIF16B",
+     "C20orf23",
+     "FLJ20135",
+     "dJ971B4.1",
+     "SNX23"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "1824",
+    "symbols": [
+     "DSC2",
+     "CDHF2"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "7851",
+    "symbols": [
+     "MALL",
+     "BENE"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "2743",
+    "symbols": [
+     "GLRB"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "427",
+    "symbols": [
+     "ASAH1",
+     "ASAH",
+     "AC",
+     "PHP32",
+     "FLJ21558",
+     "ACDase"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "5241",
+    "symbols": [
+     "PGR",
+     "PR",
+     "NR3C3"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "51364",
+    "symbols": [
+     "ZMYND10",
+     "BLU",
+     "CILD22",
+     "DNAAF7"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "6926",
+    "symbols": [
+     "TBX3",
+     "UMS",
+     "TBX3-ISO",
+     "XHL"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "5193",
+    "symbols": [
+     "PEX12"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "8531",
+    "symbols": [
+     "YBX3",
+     "CSDA",
+     "dbpA",
+     "ZONAB",
+     "CSDA1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "23",
+    "symbols": [
+     "ABCF1",
+     "ABC50",
+     "EST123147"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "7545",
+    "symbols": [
+     "ZIC1",
+     "ZIC",
+     "ZNF201"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "819",
+    "symbols": [
+     "CAMLG",
+     "CAML",
+     "GET2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "2947",
+    "symbols": [
+     "GSTM3",
+     "GST5",
+     "GSTM3TV2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "5825",
+    "symbols": [
+     "ABCD3",
+     "PXMP1",
+     "PMP70",
+     "ZWS2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "5860",
+    "symbols": [
+     "QDPR",
+     "DHPR",
+     "PKU2",
+     "SDR33C1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "59342",
+    "symbols": [
+     "SCPEP1",
+     "RISC"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "51806",
+    "symbols": [
+     "CALML5",
+     "CLSP"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "79603",
+    "symbols": [
+     "CERS4",
+     "LASS4",
+     "FLJ12089",
+     "Trh1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "21",
+    "symbols": [
+     "ABCA3",
+     "ABC3",
+     "ABC-C",
+     "EST111653",
+     "LBM180"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "54847",
+    "symbols": [
+     "SIDT1",
+     "FLJ20174",
+     "SID-1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "8537",
+    "symbols": [
+     "BCAS1",
+     "NABC1",
+     "AIBC1",
+     "PMES-2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10874",
+    "symbols": [
+     "NMU"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "54149",
+    "symbols": [
+     "C21orf91",
+     "C21orf38",
+     "C21orf14",
+     "YG81",
+     "EURL",
+     "CSSG1",
+     "BTG3-7:1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "9929",
+    "symbols": [
+     "JOSD1",
+     "KIAA0063"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "5317",
+    "symbols": [
+     "PKP1",
+     "B6P"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "7388",
+    "symbols": [
+     "UQCRH",
+     "QCR6",
+     "UQCR8"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "64764",
+    "symbols": [
+     "CREB3L2",
+     "BBF2H7",
+     "TCAG_1951439"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "10127",
+    "symbols": [
+     "ZNF263",
+     "FPM315",
+     "ZKSCAN12",
+     "ZSCAN44"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "80347",
+    "symbols": [
+     "COASY",
+     "DPCK",
+     "NBP"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "126353",
+    "symbols": [
+     "MISP",
+     "C19orf21",
+     "DKFZp686H18209",
+     "Caprice",
+     "MISP1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "50865",
+    "symbols": [
+     "HEBP1",
+     "HEBP",
+     "HBP"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "54812",
+    "symbols": [
+     "AFTPH",
+     "MGC33965",
+     "FLJ20080",
+     "FLJ23793",
+     "Nbla10388"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "64087",
+    "symbols": [
+     "MCCC2",
+     "MCCB",
+     "MCCC\u03b2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "8884",
+    "symbols": [
+     "SLC5A6",
+     "SMVT"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "5269",
+    "symbols": [
+     "SERPINB6",
+     "PI6",
+     "DFNB91",
+     "PTI",
+     "CAP"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "4321",
+    "symbols": [
+     "MMP12",
+     "HME"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "8190",
+    "symbols": [
+     "MIA",
+     "CD-RAP",
+     "MIA1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "6769",
+    "symbols": [
+     "STAC",
+     "STAC1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "51368",
+    "symbols": [
+     "TEX264",
+     "ZSIG11",
+     "FLJ13935"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "23541",
+    "symbols": [
+     "SEC14L2",
+     "C22orf6",
+     "TAP",
+     "SPF",
+     "KIAA1186",
+     "KIAA1658"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "9185",
+    "symbols": [
+     "REPS2",
+     "POB1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "185",
+    "symbols": [
+     "AGTR1",
+     "AGTR1B",
+     "AT1",
+     "AT2R1",
+     "AGTR1A",
+     "AT2R1A",
+     "HAT1R",
+     "AG2S",
+     "AT2R1B",
+     "AT1B",
+     "ATR1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "7368",
+    "symbols": [
+     "UGT8",
+     "CGT"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "399665",
+    "symbols": [
+     "EEIG1",
+     "C9orf132",
+     "FAM102A",
+     "Eeig1",
+     "bA203J24.7",
+     "SYM-3A"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "12",
+    "symbols": [
+     "SERPINA3",
+     "AACT",
+     "ACT"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "55975",
+    "symbols": [
+     "KLHL7",
+     "SBBI26",
+     "RP42"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "25864",
+    "symbols": [
+     "ABHD14A",
+     "DKFZP564O243",
+     "DORZ1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "4851",
+    "symbols": [
+     "NOTCH1",
+     "TAN1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "9091",
+    "symbols": [
+     "PIGQ",
+     "hGPI1",
+     "GPI1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "1299",
+    "symbols": [
+     "COL9A3",
+     "IDD",
+     "MED",
+     "EDM3",
+     "FLJ90759",
+     "DJ885L7.4.1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "2800",
+    "symbols": [
+     "GOLGA1",
+     "golgin-97",
+     "MGC33154"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "8326",
+    "symbols": [
+     "FZD9",
+     "CD349"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "6376",
+    "symbols": [
+     "CX3CL1",
+     "SCYD1",
+     "NTN",
+     "C3Xkine",
+     "ABCD-3",
+     "CXC3C",
+     "CXC3"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "8399",
+    "symbols": [
+     "PLA2G10",
+     "GXPLA2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "5327",
+    "symbols": [
+     "PLAT"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "22885",
+    "symbols": [
+     "ABLIM3",
+     "KIAA0843"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "11094",
+    "symbols": [
+     "CACFD1",
+     "C9orf7",
+     "D9S2135",
+     "flower"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "5321",
+    "symbols": [
+     "PLA2G4A",
+     "PLA2G4",
+     "cPLA2-alpha"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "57348",
+    "symbols": [
+     "TTYH1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "6787",
+    "symbols": [
+     "NEK4",
+     "STK2",
+     "NRK2",
+     "pp12301"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "123872",
+    "symbols": [
+     "DNAAF1",
+     "LRRC50",
+     "FLJ25330",
+     "ODA7",
+     "CILD13",
+     "swt",
+     "DAU1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10421",
+    "symbols": [
+     "CD2BP2",
+     "LIN1",
+     "Snu40",
+     "PPP1R59",
+     "U5-52K"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "5971",
+    "symbols": [
+     "RELB",
+     "REL-B"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "6833",
+    "symbols": [
+     "ABCC8",
+     "SUR",
+     "HRINS",
+     "HI",
+     "PHHI",
+     "SUR1",
+     "MRP8",
+     "ABC36",
+     "HHF1",
+     "TNDM2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "11122",
+    "symbols": [
+     "PTPRT",
+     "RPTPrho",
+     "KIAA0283"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "23650",
+    "symbols": [
+     "TRIM29",
+     "ATDC",
+     "FLJ36085"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "79629",
+    "symbols": [
+     "OCEL1",
+     "FLJ22709"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "8722",
+    "symbols": [
+     "CTSF",
+     "CATSF",
+     "CLN13"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "57110",
+    "symbols": [
+     "PLAAT1",
+     "HRASLS",
+     "H-REV107",
+     "HRASLS1",
+     "A-C1",
+     "PLA/AT1",
+     "PLAAT-1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "6697",
+    "symbols": [
+     "SPR",
+     "SDR38C1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "2919",
+    "symbols": [
+     "CXCL1",
+     "MGSA",
+     "GRO1",
+     "FSP",
+     "SCYB1",
+     "GROa",
+     "MGSA-a",
+     "NAP-3"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "27250",
+    "symbols": [
+     "PDCD4",
+     "H731"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "23245",
+    "symbols": [
+     "ASTN2",
+     "KIAA0634"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10265",
+    "symbols": [
+     "IRX5",
+     "IRX-2a"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "2824",
+    "symbols": [
+     "GPM6B",
+     "M6B",
+     "MGC17150",
+     "MGC54284"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "10644",
+    "symbols": [
+     "IGF2BP2",
+     "IMP-2",
+     "p62",
+     "P62"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "7436",
+    "symbols": [
+     "VLDLR",
+     "CARMQ1",
+     "CHRMQ1",
+     "VLDLRCH"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "25825",
+    "symbols": [
+     "BACE2",
+     "AEPLC",
+     "ASP1",
+     "DRAP",
+     "ALP56",
+     "CEAP1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "10827",
+    "symbols": [
+     "FAM114A2",
+     "C5orf3",
+     "133K02"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "4828",
+    "symbols": [
+     "NMB",
+     "MGC2277",
+     "MGC3936",
+     "MGC17211"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "6720",
+    "symbols": [
+     "SREBF1",
+     "SREBP1",
+     "bHLHd1",
+     "SREBP-1c",
+     "SREBP1a"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10477",
+    "symbols": [
+     "UBE2E3",
+     "UbcH9"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "3066",
+    "symbols": [
+     "HDAC2",
+     "RPD3",
+     "YAF1",
+     "KDAC2"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "55224",
+    "symbols": [
+     "ETNK2",
+     "FLJ10761",
+     "EKI2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "875",
+    "symbols": [
+     "CBS",
+     "HIP4"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "3872",
+    "symbols": [
+     "KRT17",
+     "PCHC1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "753",
+    "symbols": [
+     "LDLRAD4",
+     "C18orf1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "136",
+    "symbols": [
+     "ADORA2B"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "2013",
+    "symbols": [
+     "EMP2",
+     "XMP"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "1917",
+    "symbols": [
+     "EEF1A2",
+     "STNL",
+     "STN",
+     "EEF1AL",
+     "HS1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "3576",
+    "symbols": [
+     "CXCL8",
+     "IL8",
+     "SCYB8",
+     "LUCT",
+     "LECT",
+     "MDNCF",
+     "TSG-1",
+     "IL-8",
+     "NAP-1",
+     "3-10C",
+     "MONAP",
+     "AMCF-I",
+     "LYNAP",
+     "NAF",
+     "b-ENAP",
+     "GCP-1",
+     "K60",
+     "GCP1",
+     "NAP1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "419",
+    "symbols": [
+     "ART3",
+     "ARTC3"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "55650",
+    "symbols": [
+     "PIGV",
+     "FLJ20477",
+     "PIG-V",
+     "GPI-MT-II"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "23107",
+    "symbols": [
+     "MRPS27",
+     "KIAA0264",
+     "mS27"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "25818",
+    "symbols": [
+     "KLK5",
+     "SCTE",
+     "KLK-L2"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "8309",
+    "symbols": [
+     "ACOX2",
+     "BRCACOX",
+     "BRCOX",
+     "THCCox"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "1047",
+    "symbols": [
+     "CLGN"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10002",
+    "symbols": [
+     "NR2E3",
+     "PNR",
+     "rd7",
+     "RP37"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "60487",
+    "symbols": [
+     "TRMT11",
+     "C6orf75",
+     "MDS024",
+     "dJ187J11.2",
+     "TRM11",
+     "TRMT11-1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "10656",
+    "symbols": [
+     "KHDRBS3",
+     "T-STAR",
+     "Etle",
+     "etoile",
+     "SALP",
+     "SLM2",
+     "SLM-2"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "55240",
+    "symbols": [
+     "STEAP3",
+     "TSAP6",
+     "dudlin-2",
+     "STMP3"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "3315",
+    "symbols": [
+     "HSPB1",
+     "HSP27",
+     "HSP28",
+     "Hs.76067",
+     "Hsp25",
+     "CMT2F"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10273",
+    "symbols": [
+     "STUB1",
+     "UBOX1",
+     "CHIP",
+     "SDCCAG7",
+     "HSPABP2",
+     "NY-CO-7"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "2171",
+    "symbols": [
+     "FABP5",
+     "E-FABP",
+     "PA-FABP",
+     "KFABP"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "55184",
+    "symbols": [
+     "DZANK1",
+     "C20orf84",
+     "C20orf12",
+     "FLJ10600",
+     "dJ568F9.2",
+     "FLJ30892",
+     "bA189K21.8",
+     "ANKRD64"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "5783",
+    "symbols": [
+     "PTPN13",
+     "PTP1E",
+     "PTP-BAS",
+     "PTPL1",
+     "PTP-BL"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "1877",
+    "symbols": [
+     "E4F1",
+     "E4F"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "11098",
+    "symbols": [
+     "PRSS23",
+     "SPUVE",
+     "SIG13"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10202",
+    "symbols": [
+     "DHRS2",
+     "HEP27",
+     "SDR25C1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "80223",
+    "symbols": [
+     "RAB11FIP1",
+     "RCP",
+     "FLJ22622",
+     "FLJ22524",
+     "Rab11-FIP1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "79627",
+    "symbols": [
+     "OGFRL1",
+     "dJ331H24.1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "6948",
+    "symbols": [
+     "TCN2",
+     "D22S676",
+     "D22S750",
+     "TC2"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "3097",
+    "symbols": [
+     "HIVEP2",
+     "MBP-2",
+     "HIV-EP2",
+     "MIBP1",
+     "ZAS2",
+     "Schnurri-2",
+     "ZNF40B"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "8985",
+    "symbols": [
+     "PLOD3",
+     "LH3"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "3892",
+    "symbols": [
+     "KRT86",
+     "KRTHB6",
+     "MNX",
+     "Hb6"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "10575",
+    "symbols": [
+     "CCT4",
+     "Cctd"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "51004",
+    "symbols": [
+     "COQ6",
+     "CGI-10"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "4071",
+    "symbols": [
+     "TM4SF1",
+     "M3S1",
+     "L6"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "1718",
+    "symbols": [
+     "DHCR24",
+     "DCE",
+     "KIAA0018",
+     "seladin-1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "1381",
+    "symbols": [
+     "CRABP1",
+     "CRABP",
+     "CRABP-I",
+     "CRABPI"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "9368",
+    "symbols": [
+     "NHERF1",
+     "SLC9A3R1",
+     "NHERF",
+     "EBP50",
+     "NHERF-1",
+     "NHE-RF"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "92104",
+    "symbols": [
+     "IFT70A",
+     "TTC30A",
+     "FLJ13946",
+     "FAP259",
+     "CFAP259"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "9518",
+    "symbols": [
+     "GDF15",
+     "PLAB",
+     "MIC-1",
+     "MIC1",
+     "NAG-1",
+     "PTGFB"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "6364",
+    "symbols": [
+     "CCL20",
+     "SCYA20",
+     "LARC",
+     "MIP-3a",
+     "exodus-1",
+     "ST38",
+     "CKb4"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "3306",
+    "symbols": [
+     "HSPA2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "79605",
+    "symbols": [
+     "PGBD5",
+     "DKFZp761A0620",
+     "FLJ11413"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "23336",
+    "symbols": [
+     "SYNM",
+     "DMN",
+     "KIAA0353",
+     "SYN"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "1356",
+    "symbols": [
+     "CP",
+     "AB073614"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "54619",
+    "symbols": [
+     "CCNJ",
+     "FLJ10895",
+     "bA690P14.1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "9200",
+    "symbols": [
+     "HACD1",
+     "PTPLA",
+     "CAP"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "51302",
+    "symbols": [
+     "CYP39A1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "5191",
+    "symbols": [
+     "PEX7",
+     "PTS2R",
+     "RD"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "706",
+    "symbols": [
+     "TSPO",
+     "BZRP",
+     "PBR",
+     "MBR",
+     "PKBS",
+     "mDRC",
+     "IBP",
+     "pk18",
+     "TSPO1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "7159",
+    "symbols": [
+     "TP53BP2",
+     "PPP1R13A",
+     "ASPP2",
+     "53BP2"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "55218",
+    "symbols": [
+     "EXD2",
+     "C14orf114",
+     "EXDL2",
+     "FLJ10738"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "79669",
+    "symbols": [
+     "C3orf52",
+     "FLJ23186",
+     "TTMP"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10140",
+    "symbols": [
+     "TOB1",
+     "TROB1",
+     "TOB",
+     "TROB",
+     "APRO5"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "11226",
+    "symbols": [
+     "GALNT6",
+     "GalNAc-T6"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "6652",
+    "symbols": [
+     "SORD",
+     "SDH"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "3418",
+    "symbols": [
+     "IDH2",
+     "IDH-2"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "10200",
+    "symbols": [
+     "MPHOSPH6",
+     "MPP6"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "7345",
+    "symbols": [
+     "UCHL1",
+     "PARK5",
+     "PGP9.5",
+     "Uch-L1",
+     "UCHL-1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "6564",
+    "symbols": [
+     "SLC15A1",
+     "PEPT1",
+     "HPECT1",
+     "HPEPT1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "54458",
+    "symbols": [
+     "PRR13",
+     "FLJ23818",
+     "DKFZP564J157"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "51103",
+    "symbols": [
+     "NDUFAF1",
+     "CIA30",
+     "CGI-65"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "11042",
+    "symbols": [
+     "GUSBP15",
+     "SMA5"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10040",
+    "symbols": [
+     "TOM1L1",
+     "SRCASM"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "1117",
+    "symbols": [
+     "CHI3L2",
+     "YKL-39",
+     "YKL39"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "112398",
+    "symbols": [
+     "EGLN2",
+     "PHD1",
+     "HIFPH1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "9258",
+    "symbols": [
+     "MFHAS1",
+     "MASL1",
+     "LRRC65"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "374",
+    "symbols": [
+     "AREG",
+     "SDGF",
+     "AREGB",
+     "CRDGF"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "2982",
+    "symbols": [
+     "GUCY1A1",
+     "GUC1A3",
+     "GUCY1A3",
+     "GC-SA3"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "688",
+    "symbols": [
+     "KLF5",
+     "BTEB2",
+     "IKLF"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "1960",
+    "symbols": [
+     "EGR3",
+     "PILOT"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "7993",
+    "symbols": [
+     "UBXN8",
+     "UBXD6",
+     "D8S2298E",
+     "REP8"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "25823",
+    "symbols": [
+     "TPSG1",
+     "TMT",
+     "PRSS31"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "4485",
+    "symbols": [
+     "MST1",
+     "D3F15S2",
+     "HGFL",
+     "DNF15S2",
+     "MSP",
+     "NF15S2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "23528",
+    "symbols": [
+     "ZNF281",
+     "ZBP-99"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "1672",
+    "symbols": [
+     "DEFB1",
+     "HBD-1",
+     "DEFB-1",
+     "DEFB101",
+     "HBD1",
+     "BD1",
+     "MGC51822"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "28960",
+    "symbols": [
+     "DCPS",
+     "HSPC015",
+     "HINT-5",
+     "HSL1",
+     "HINT5",
+     "DCS-1",
+     "DCS1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "5268",
+    "symbols": [
+     "SERPINB5",
+     "PI5",
+     "maspin"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "55450",
+    "symbols": [
+     "CAMK2N1",
+     "CaMKIINalpha"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "6261",
+    "symbols": [
+     "RYR1",
+     "MHS",
+     "MHS1",
+     "CCO",
+     "RYR",
+     "PPP1R137"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "2627",
+    "symbols": [
+     "GATA6"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "57180",
+    "symbols": [
+     "ACTR3B",
+     "ARP11",
+     "ARP3beta"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "4036",
+    "symbols": [
+     "LRP2",
+     "gp330",
+     "DBS"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "29116",
+    "symbols": [
+     "MYLIP",
+     "MIR",
+     "IDOL"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "57211",
+    "symbols": [
+     "ADGRG6",
+     "GPR126",
+     "FLJ14937"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "4435",
+    "symbols": [
+     "CITED1",
+     "MSG1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "54913",
+    "symbols": [
+     "RPP25",
+     "FLJ20374"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "9982",
+    "symbols": [
+     "FGFBP1",
+     "HBP17",
+     "FGFBP"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "11170",
+    "symbols": [
+     "FAM107A",
+     "DRR1",
+     "TU3A"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "3294",
+    "symbols": [
+     "HSD17B2",
+     "HSD17",
+     "SDR9C2"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "6583",
+    "symbols": [
+     "SLC22A4",
+     "DFNB60",
+     "OCTN1",
+     "MGC34546"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "79170",
+    "symbols": [
+     "PRR15L",
+     "ATAD4",
+     "MGC11242"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "79745",
+    "symbols": [
+     "CLIP4",
+     "RSNL2",
+     "FLJ21069"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "2813",
+    "symbols": [
+     "GP2",
+     "ZAP75"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "6723",
+    "symbols": [
+     "SRM",
+     "SRML1",
+     "SPS1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "1360",
+    "symbols": [
+     "CPB1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "5016",
+    "symbols": [
+     "OVGP1",
+     "MUC9",
+     "CHIT5",
+     "OGP"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "5271",
+    "symbols": [
+     "SERPINB8",
+     "PI8"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "347902",
+    "symbols": [
+     "AMIGO2",
+     "ALI1",
+     "DEGA"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "79719",
+    "symbols": [
+     "AAGAB",
+     "FLJ11506",
+     "p34"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "55258",
+    "symbols": [
+     "THNSL2",
+     "FLJ10916",
+     "TSH2",
+     "SOFAT"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "8563",
+    "symbols": [
+     "THOC5",
+     "C22orf19",
+     "PK1.3",
+     "KIAA0983",
+     "Fmip",
+     "fSAP79"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "83464",
+    "symbols": [
+     "APH1B",
+     "PSFL",
+     "APH-1B",
+     "DKFZp564D0372"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "23532",
+    "symbols": [
+     "PRAME",
+     "MAPE",
+     "CT130"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "6834",
+    "symbols": [
+     "SURF1",
+     "SHY1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "6019",
+    "symbols": [
+     "RLN2",
+     "H2",
+     "RLXH2",
+     "bA12D24.1.1",
+     "bA12D24.1.2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "214",
+    "symbols": [
+     "ALCAM",
+     "CD166",
+     "MEMD"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "55333",
+    "symbols": [
+     "SYNJ2BP",
+     "Arip2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10525",
+    "symbols": [
+     "HYOU1",
+     "ORP150",
+     "HSP12A",
+     "Grp170"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "2232",
+    "symbols": [
+     "FDXR",
+     "ADXR",
+     "ADR"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "274",
+    "symbols": [
+     "BIN1",
+     "AMPHL",
+     "SH3P9",
+     "AMPH2"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "10307",
+    "symbols": [
+     "APBB3",
+     "FE65L2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "8986",
+    "symbols": [
+     "RPS6KA4",
+     "RSK-B",
+     "MSK2"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "56938",
+    "symbols": [
+     "BMAL2",
+     "ARNTL2",
+     "MOP9",
+     "CLIF",
+     "PASD9",
+     "bHLHe6"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "9510",
+    "symbols": [
+     "ADAMTS1",
+     "C3-C5",
+     "METH1",
+     "KIAA1346"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "2770",
+    "symbols": [
+     "GNAI1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "4350",
+    "symbols": [
+     "MPG",
+     "MDG"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "863",
+    "symbols": [
+     "CBFA2T3",
+     "MTGR2",
+     "ZMYND4",
+     "MTG16",
+     "RUNX1T3",
+     "ETO2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "2891",
+    "symbols": [
+     "GRIA2",
+     "GLUR2",
+     "GluA2",
+     "GLURB",
+     "GluR-K2",
+     "GluR-B",
+     "GluR-2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10309",
+    "symbols": [
+     "CCNO",
+     "CCNU",
+     "UDG2",
+     "FLJ22422",
+     "UNG2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "7037",
+    "symbols": [
+     "TFRC",
+     "CD71",
+     "TFR1",
+     "p90"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "3574",
+    "symbols": [
+     "IL7",
+     "IL-7"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "55293",
+    "symbols": [
+     "UEVLD",
+     "Attp",
+     "UEV3"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "27165",
+    "symbols": [
+     "GLS2",
+     "GA",
+     "LGA",
+     "hLGA"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "55188",
+    "symbols": [
+     "RIC8B",
+     "FLJ10620",
+     "hSyn",
+     "RIC8"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "11202",
+    "symbols": [
+     "KLK8",
+     "PRSS19",
+     "HNP",
+     "TADG14",
+     "neuropsin",
+     "ovasin"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "51181",
+    "symbols": [
+     "DCXR",
+     "KIDCR",
+     "SDR20C1",
+     "HCR2",
+     "P34H"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "827",
+    "symbols": [
+     "CAPN6",
+     "CAPNX",
+     "CalpM",
+     "CANPX"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "390",
+    "symbols": [
+     "RND3",
+     "ARHE",
+     "RhoE",
+     "Rho8"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "54438",
+    "symbols": [
+     "GFOD1",
+     "C6orf114",
+     "FLJ20330",
+     "ADG-90"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "10079",
+    "symbols": [
+     "ATP9A",
+     "KIAA0611",
+     "ATPIIA"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "4285",
+    "symbols": [
+     "MIPEP"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "8324",
+    "symbols": [
+     "FZD7",
+     "FzE3"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "9052",
+    "symbols": [
+     "GPRC5A",
+     "RAI3",
+     "RAIG1",
+     "TIG1",
+     "PEIG-1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "9508",
+    "symbols": [
+     "ADAMTS3",
+     "KIAA0366",
+     "ADAMTS-4"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "10519",
+    "symbols": [
+     "CIB1",
+     "SIP2-28",
+     "CIB",
+     "KIP"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "7138",
+    "symbols": [
+     "TNNT1",
+     "ANM",
+     "STNT",
+     "TNT",
+     "TNTS",
+     "FLJ98147",
+     "MGC104241",
+     "NEM5"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "51735",
+    "symbols": [
+     "RAPGEF6",
+     "PDZGEF2",
+     "RA-GEF-2",
+     "PDZ-GEF2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "54970",
+    "symbols": [
+     "TTC12",
+     "FLJ13859",
+     "FLJ20535",
+     "TPARM"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "2591",
+    "symbols": [
+     "GALNT3",
+     "GalNAc-T3",
+     "HHS",
+     "HFTC"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "2348",
+    "symbols": [
+     "FOLR1",
+     "FOLR",
+     "FR\u03b1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "2954",
+    "symbols": [
+     "GSTZ1",
+     "GSTZ1-1",
+     "MAAI",
+     "MAI"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "23318",
+    "symbols": [
+     "TUT4",
+     "ZCCHC11",
+     "KIAA0191",
+     "PAPD3",
+     "TENT3A"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "10267",
+    "symbols": [
+     "RAMP1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "25984",
+    "symbols": [
+     "KRT23",
+     "K23",
+     "DKFZP434G032",
+     "HAIK1",
+     "CK23",
+     "MGC26158"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "6496",
+    "symbols": [
+     "SIX3",
+     "HPE2"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "786",
+    "symbols": [
+     "CACNG1",
+     "CACNLG"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "22976",
+    "symbols": [
+     "PAXIP1",
+     "PAXIP1L",
+     "CAGF29",
+     "CAGF28",
+     "TNRC2",
+     "PTIP"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "283232",
+    "symbols": [
+     "TMEM80",
+     "FLJ38216"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "629",
+    "symbols": [
+     "CFB",
+     "BFD",
+     "BF",
+     "H2-Bf"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "7286",
+    "symbols": [
+     "TUFT1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "5562",
+    "symbols": [
+     "PRKAA1",
+     "AMPKa1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "9851",
+    "symbols": [
+     "KIAA0753",
+     "OFIP",
+     "MNR"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "79622",
+    "symbols": [
+     "SNRNP25",
+     "C16orf33",
+     "U11/U12-25K"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "55316",
+    "symbols": [
+     "RSAD1",
+     "FLJ11164",
+     "HemW"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "6271",
+    "symbols": [
+     "S100A1",
+     "S100A",
+     "S100-alpha"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "55859",
+    "symbols": [
+     "BEX1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "3595",
+    "symbols": [
+     "IL12RB2"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "5100",
+    "symbols": [
+     "PCDH8",
+     "PAPC",
+     "ARCADLIN"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "2861",
+    "symbols": [
+     "GPR37",
+     "EDNRBL",
+     "hET(B)R-LP",
+     "PAELR"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "26278",
+    "symbols": [
+     "SACS",
+     "ARSACS",
+     "KIAA0730",
+     "DKFZp686B15167",
+     "DNAJC29",
+     "SPAX6",
+     "PPP1R138"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "55506",
+    "symbols": [
+     "MACROH2A2",
+     "H2AFY2"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "64215",
+    "symbols": [
+     "DNAJC1",
+     "DNAJL1",
+     "ERdj1",
+     "MTJ1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "3096",
+    "symbols": [
+     "HIVEP1",
+     "ZNF40",
+     "CIRIP",
+     "MBP-1",
+     "CRYBP1",
+     "PRDII-BF1",
+     "ZAS1",
+     "Schnurri-1",
+     "ZNF40A"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "23059",
+    "symbols": [
+     "CLUAP1",
+     "FLJ13297",
+     "KIAA0643",
+     "FAP22",
+     "CFAP22",
+     "IFT38"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "79602",
+    "symbols": [
+     "ADIPOR2",
+     "PAQR2",
+     "ACDCR2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "56683",
+    "symbols": [
+     "CFAP298",
+     "C21orf48",
+     "C21orf59",
+     "FLJ20467",
+     "FBB18",
+     "CILD26",
+     "Kur",
+     "DNAAF16"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "22943",
+    "symbols": [
+     "DKK1",
+     "SK",
+     "DKK-1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "6277",
+    "symbols": [
+     "S100A6",
+     "CACY",
+     "2A9",
+     "PRA",
+     "CABP"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "65983",
+    "symbols": [
+     "GRAMD2B",
+     "GRAMD3",
+     "NS3TP2",
+     "FLJ21313"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "4255",
+    "symbols": [
+     "MGMT"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10406",
+    "symbols": [
+     "WFDC2",
+     "HE4",
+     "WAP5",
+     "dJ461P17.6",
+     "EDDM4"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "3760",
+    "symbols": [
+     "KCNJ3",
+     "Kir3.1",
+     "GIRK1",
+     "KGA"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "23552",
+    "symbols": [
+     "CDK20",
+     "CCRK",
+     "p42",
+     "PNQALRE"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "9722",
+    "symbols": [
+     "NOS1AP",
+     "KIAA0464",
+     "CAPON"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "23613",
+    "symbols": [
+     "ZMYND8",
+     "PRKCBP1",
+     "RACK7",
+     "KIAA1125"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "202",
+    "symbols": [
+     "CRYBG1",
+     "ST4",
+     "AIM1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "51207",
+    "symbols": [
+     "DUSP13B",
+     "DUSP13",
+     "TMDP",
+     "SKRP4"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "83988",
+    "symbols": [
+     "NCALD"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "2920",
+    "symbols": [
+     "CXCL2",
+     "GRO2",
+     "SCYB2",
+     "GROb",
+     "MIP-2a",
+     "MGSA-b",
+     "CINC-2a"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "8870",
+    "symbols": [
+     "IER3",
+     "IEX-1",
+     "DIF-2",
+     "PRG1",
+     "IEX-1L"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "55245",
+    "symbols": [
+     "UQCC1",
+     "C20orf44",
+     "UQCC",
+     "FLJ10850",
+     "CBP3",
+     "BFZB"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "6666",
+    "symbols": [
+     "SOX12",
+     "SOX22"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "80279",
+    "symbols": [
+     "CDK5RAP3",
+     "MST016",
+     "FLJ13660",
+     "C53",
+     "IC53",
+     "HSF-27",
+     "OK/SW-cl.114",
+     "LZAP"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "1644",
+    "symbols": [
+     "DDC",
+     "AADC"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "5441",
+    "symbols": [
+     "POLR2L",
+     "RPB10beta",
+     "RBP10",
+     "RPABC5",
+     "RPB7.6",
+     "hRPB7.6",
+     "hsRPB10b"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "9022",
+    "symbols": [
+     "CLIC3"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "7769",
+    "symbols": [
+     "ZNF226"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "27239",
+    "symbols": [
+     "GPR162",
+     "A-2",
+     "GRCA"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "26504",
+    "symbols": [
+     "CNNM4",
+     "ACDP4",
+     "SLC70A4",
+     "KIAA1592"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "3400",
+    "symbols": [
+     "ID4",
+     "bHLHb27"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "1733",
+    "symbols": [
+     "DIO1",
+     "TXDI1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "25915",
+    "symbols": [
+     "NDUFAF3",
+     "C3orf60",
+     "MGC10527",
+     "DKFZP564J0123",
+     "E3-3",
+     "2P1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "1525",
+    "symbols": [
+     "CXADR",
+     "CAR"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "1475",
+    "symbols": [
+     "CSTA",
+     "STF1",
+     "STFA"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "2155",
+    "symbols": [
+     "F7"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "4188",
+    "symbols": [
+     "MDFI",
+     "I-mfa"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "3622",
+    "symbols": [
+     "ING2",
+     "ING1L",
+     "p33ING2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "25980",
+    "symbols": [
+     "AAR2",
+     "C20orf4",
+     "bA234K24.2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "8310",
+    "symbols": [
+     "ACOX3"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "54820",
+    "symbols": [
+     "NDE1",
+     "nudE",
+     "FLJ20101",
+     "NDE"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "5816",
+    "symbols": [
+     "PVALB",
+     "D22S749"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "60686",
+    "symbols": [
+     "C14orf93",
+     "FLJ12154",
+     "RTFC"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "8792",
+    "symbols": [
+     "TNFRSF11A",
+     "PDB2",
+     "LOH18CR1",
+     "RANK",
+     "CD265",
+     "FEO",
+     "ODFR",
+     "TRANCE-R"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "54894",
+    "symbols": [
+     "RNF43",
+     "FLJ20315",
+     "RNF124",
+     "DKFZp781H0392",
+     "URCC"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "5737",
+    "symbols": [
+     "PTGFR",
+     "FP"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "1501",
+    "symbols": [
+     "CTNND2",
+     "NPRAP",
+     "GT24"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "7764",
+    "symbols": [
+     "ZNF217",
+     "ZABC1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "8405",
+    "symbols": [
+     "SPOP",
+     "TEF2",
+     "BTBD32"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "1847",
+    "symbols": [
+     "DUSP5",
+     "HVH3"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "4488",
+    "symbols": [
+     "MSX2",
+     "PFM1",
+     "CRS2",
+     "FPP",
+     "HOX8",
+     "MSH",
+     "PFM"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "7163",
+    "symbols": [
+     "TPD52",
+     "D52",
+     "hD52",
+     "N8L"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "25790",
+    "symbols": [
+     "CFAP45",
+     "CCDC19",
+     "NESG1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "5803",
+    "symbols": [
+     "PTPRZ1",
+     "PTPZ",
+     "PTPRZ",
+     "PTP18",
+     "RPTPB",
+     "phosphacan"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "23635",
+    "symbols": [
+     "SSBP2",
+     "HSPC116"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "6548",
+    "symbols": [
+     "SLC9A1",
+     "APNH",
+     "NHE1",
+     "NHE-1",
+     "PPP1R143"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "8187",
+    "symbols": [
+     "ZNF239",
+     "MOK2",
+     "HOK-2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "2588",
+    "symbols": [
+     "GALNS",
+     "GAS",
+     "GALNAC6S",
+     "GalN6S"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "54903",
+    "symbols": [
+     "MKS1",
+     "MKS",
+     "FLJ20345",
+     "POC12",
+     "BBS13"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "55163",
+    "symbols": [
+     "PNPO",
+     "PDXPO"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "55101",
+    "symbols": [
+     "DMAC2",
+     "ATP5SL",
+     "FLJ10241"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "4682",
+    "symbols": [
+     "NUBP1",
+     "NBP1",
+     "NBP35",
+     "CIAO5"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "3779",
+    "symbols": [
+     "KCNMB1",
+     "hslo-beta"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "64849",
+    "symbols": [
+     "SLC13A3",
+     "NADC3",
+     "SDCT2"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "4691",
+    "symbols": [
+     "NCL",
+     "C23",
+     "Nsr1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "64428",
+    "symbols": [
+     "CIAO3",
+     "NARFL",
+     "FLJ21988",
+     "PRN",
+     "HPRN",
+     "IOP1",
+     "NAR1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "23266",
+    "symbols": [
+     "ADGRL2",
+     "LPHH1",
+     "LPHN2",
+     "KIAA0786",
+     "LEC1",
+     "CIRL2"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "29104",
+    "symbols": [
+     "HEMK2",
+     "N6AMT1",
+     "C21orf127",
+     "PRED28",
+     "N6AMT",
+     "MTQ2",
+     "KMT9",
+     "PrmC"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "1783",
+    "symbols": [
+     "DYNC1LI2",
+     "DNCLI2"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "8987",
+    "symbols": [
+     "STBD1",
+     "FLJ41801",
+     "GENX-3414"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "79852",
+    "symbols": [
+     "EPHX3",
+     "ABHD9",
+     "FLJ22408"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "57586",
+    "symbols": [
+     "SYT13",
+     "KIAA1427"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "8785",
+    "symbols": [
+     "MATN4"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "10331",
+    "symbols": [
+     "B3GNT3",
+     "TMEM3",
+     "B3GN-T3",
+     "beta3Gn-T3",
+     "HP10328",
+     "B3GNT-3"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "5357",
+    "symbols": [
+     "PLS1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "54880",
+    "symbols": [
+     "BCOR",
+     "FLJ20285",
+     "KIAA1575"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "55790",
+    "symbols": [
+     "CSGALNACT1",
+     "CSGalNAcT-1",
+     "FLJ11264",
+     "ChGn"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "4139",
+    "symbols": [
+     "MARK1",
+     "MARK",
+     "PAR-1C"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "81539",
+    "symbols": [
+     "SLC38A1",
+     "ATA1",
+     "SNAT1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10810",
+    "symbols": [
+     "WASF3",
+     "WAVE3",
+     "SCAR3",
+     "KIAA0900"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "926",
+    "symbols": [
+     "CD8B",
+     "CD8B1",
+     "Ly-3",
+     "LYT3",
+     "P37",
+     "CD8beta"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "50805",
+    "symbols": [
+     "IRX4"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "58513",
+    "symbols": [
+     "EPS15L1",
+     "eps15R"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "6304",
+    "symbols": [
+     "SATB1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "79446",
+    "symbols": [
+     "WDR25",
+     "C14orf67",
+     "MGC4645"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "23366",
+    "symbols": [
+     "MATCAP2",
+     "KIAA0895",
+     "TMCP2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "55699",
+    "symbols": [
+     "IARS2",
+     "FLJ10326"
+    ],
+    "sign": 1.0
+   }
+  ],
+  "mod_ERBB2": [
+   {
+    "entrez": "2064",
+    "symbols": [
+     "ERBB2",
+     "NGL",
+     "NEU",
+     "HER-2",
+     "CD340",
+     "HER2",
+     "c-ERB2",
+     "c-ERB-2",
+     "MLN-19",
+     "p185(erbB2)"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "93210",
+    "symbols": [
+     "PGAP3",
+     "PERLD1",
+     "MGC9753",
+     "CAB2",
+     "PP1498"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "5709",
+    "symbols": [
+     "PSMD3",
+     "TSTA2",
+     "S3",
+     "P58",
+     "Rpn3"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "5409",
+    "symbols": [
+     "PNMT",
+     "PENT"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "55876",
+    "symbols": [
+     "GSDMB",
+     "GSDML",
+     "PRO2521"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "22794",
+    "symbols": [
+     "CASC3",
+     "MLN51",
+     "BTZ"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "3927",
+    "symbols": [
+     "LASP1",
+     "MLN50",
+     "Lasp-1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "147179",
+    "symbols": [
+     "WIPF2",
+     "WICH",
+     "WIRE"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "55040",
+    "symbols": [
+     "EPN3",
+     "FLJ20778",
+     "MGC129899"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "5245",
+    "symbols": [
+     "PHB1",
+     "PHB",
+     "BAP32"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "9635",
+    "symbols": [
+     "CLCA2",
+     "CLCRG2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "3227",
+    "symbols": [
+     "HOXC11",
+     "HOX3H"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "29095",
+    "symbols": [
+     "ORMDL2",
+     "HSPC160",
+     "adoplin-2",
+     "MST095",
+     "MSTP095"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "5909",
+    "symbols": [
+     "RAP1GAP",
+     "RAP1GA1",
+     "KIAA0474",
+     "RAP1GAP1",
+     "RAP1GAPII"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "1573",
+    "symbols": [
+     "CYP2J2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "26154",
+    "symbols": [
+     "ABCA12",
+     "ICR2B",
+     "DKFZP434G232",
+     "LI2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "3081",
+    "symbols": [
+     "HGD",
+     "AKU",
+     "HGO"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "8804",
+    "symbols": [
+     "CREG1",
+     "CREG"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "9914",
+    "symbols": [
+     "ATP2C2",
+     "KIAA0703",
+     "SPCA2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "5129",
+    "symbols": [
+     "CDK18",
+     "PCTK3",
+     "PCTAIRE3"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "54793",
+    "symbols": [
+     "KCTD9",
+     "FLJ20038",
+     "BTBD27"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "404093",
+    "symbols": [
+     "CUEDC1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "3675",
+    "symbols": [
+     "ITGA3",
+     "MSK18",
+     "CD49c",
+     "VLA3a",
+     "VCA-2",
+     "GAP-B3"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "55129",
+    "symbols": [
+     "ANO10",
+     "TMEM16K",
+     "FLJ10375",
+     "MGC47890",
+     "SCAR10"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "24147",
+    "symbols": [
+     "FJX1",
+     "FLJ22416",
+     "FLJ25593"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "1048",
+    "symbols": [
+     "CEACAM5",
+     "CEA",
+     "CD66e"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "9572",
+    "symbols": [
+     "NR1D1",
+     "THRAL",
+     "ear-1",
+     "hRev",
+     "Rev-ErbAalpha",
+     "THRA1",
+     "REVERBA",
+     "REVERBalpha"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "51375",
+    "symbols": [
+     "SNX7"
+    ],
+    "sign": -1.0
+   }
+  ],
+  "mod_AURKA": [
+   {
+    "entrez": "6790",
+    "symbols": [
+     "AURKA",
+     "STK15",
+     "STK6",
+     "BTAK",
+     "AurA",
+     "STK7",
+     "ARK1",
+     "PPP1R47",
+     "AIK"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "11065",
+    "symbols": [
+     "UBE2C",
+     "UBCH10"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "9133",
+    "symbols": [
+     "CCNB2",
+     "HsT17299"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "1058",
+    "symbols": [
+     "CENPA",
+     "CENP-A",
+     "CenH3"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "332",
+    "symbols": [
+     "BIRC5",
+     "API4",
+     "EPR-1",
+     "survivin"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "11004",
+    "symbols": [
+     "KIF2C",
+     "KNSL6",
+     "MCAK",
+     "CT139"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10112",
+    "symbols": [
+     "KIF20A",
+     "RAB6KIFL",
+     "MKLP2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "991",
+    "symbols": [
+     "CDC20",
+     "p55CDC",
+     "CDC20A"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "2305",
+    "symbols": [
+     "FOXM1",
+     "FKHL16",
+     "HFH-11",
+     "trident",
+     "HNF-3",
+     "INS-1",
+     "MPHOSPH2",
+     "TGT3"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "891",
+    "symbols": [
+     "CCNB1",
+     "CCNB"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "22974",
+    "symbols": [
+     "TPX2",
+     "C20orf2",
+     "C20orf1",
+     "p100",
+     "DIL-2",
+     "HCA519",
+     "FLS353"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "9088",
+    "symbols": [
+     "PKMYT1",
+     "PPP1R126"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "54478",
+    "symbols": [
+     "PIMREG",
+     "FAM64A",
+     "FLJ10156",
+     "FLJ10491",
+     "CATS",
+     "RCS1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "4751",
+    "symbols": [
+     "NEK2",
+     "NLK1",
+     "NEK2A",
+     "RP67",
+     "PPP1R111"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "24137",
+    "symbols": [
+     "KIF4A",
+     "KIF4-G1",
+     "KIF4",
+     "HSA271784",
+     "FLJ12530",
+     "FLJ12655",
+     "FLJ14204",
+     "FLJ20631",
+     "MRX100"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "23397",
+    "symbols": [
+     "NCAPH",
+     "BRRN1",
+     "CAP-H",
+     "hCAP-H",
+     "NCAPH1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "9319",
+    "symbols": [
+     "TRIP13",
+     "16E1BP"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "4085",
+    "symbols": [
+     "MAD2L1",
+     "MAD2",
+     "HSMAD2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "9156",
+    "symbols": [
+     "EXO1",
+     "HEX1",
+     "hExoI"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10615",
+    "symbols": [
+     "SPAG5",
+     "DEEPEST",
+     "MAP126",
+     "hMAP126"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "7083",
+    "symbols": [
+     "TK1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "6491",
+    "symbols": [
+     "STIL",
+     "SIL",
+     "MCPH7"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "6241",
+    "symbols": [
+     "RRM2",
+     "C2orf48",
+     "FLJ25102"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "55839",
+    "symbols": [
+     "CENPN",
+     "C16orf60",
+     "FLJ13607",
+     "FLJ22660",
+     "BM039"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "7298",
+    "symbols": [
+     "TYMS",
+     "TS",
+     "Tsase",
+     "TMS",
+     "HsT422"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "641",
+    "symbols": [
+     "BLM",
+     "BS",
+     "RECQL3",
+     "RECQ2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "4171",
+    "symbols": [
+     "MCM2",
+     "CDCL1",
+     "D3S3194",
+     "KIAA0030",
+     "BM28",
+     "cdc19",
+     "DFNA70"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "1164",
+    "symbols": [
+     "CKS2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "79682",
+    "symbols": [
+     "CENPU",
+     "MLF1IP",
+     "CENP-U",
+     "KLIP1",
+     "CENP-50",
+     "PBIP1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10129",
+    "symbols": [
+     "FRY",
+     "C13orf14",
+     "bA37E23.1",
+     "13CDNA73",
+     "CG003"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "51659",
+    "symbols": [
+     "GINS2",
+     "PSF2",
+     "Pfs2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10212",
+    "symbols": [
+     "DDX39A",
+     "DDX39",
+     "DDXL",
+     "BAT1L",
+     "URH49"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "3925",
+    "symbols": [
+     "STMN1",
+     "LAP18",
+     "C1orf215",
+     "SMN",
+     "OP18",
+     "PR22",
+     "PP19",
+     "PP17",
+     "Lag",
+     "FLJ32206"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "79801",
+    "symbols": [
+     "SHCBP1",
+     "FLJ22009",
+     "PAL"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "3014",
+    "symbols": [
+     "H2AX",
+     "H2AFX"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10535",
+    "symbols": [
+     "RNASEH2A",
+     "RNASEHI",
+     "RNHIA",
+     "RNHL",
+     "AGS4"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "5984",
+    "symbols": [
+     "RFC4",
+     "A1",
+     "RFC37"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "55970",
+    "symbols": [
+     "GNG12"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "1033",
+    "symbols": [
+     "CDKN3",
+     "KAP",
+     "CDI1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "55388",
+    "symbols": [
+     "MCM10",
+     "PRO2249",
+     "CNA43",
+     "DNA43"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "55257",
+    "symbols": [
+     "MRGBP",
+     "C20orf20",
+     "FLJ10914",
+     "MRG15BP",
+     "Eaf7"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "1163",
+    "symbols": [
+     "CKS1B",
+     "ckshs1",
+     "CKS1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "8914",
+    "symbols": [
+     "TIMELESS",
+     "hTIM",
+     "TIM",
+     "TIM1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "54821",
+    "symbols": [
+     "ERCC6L",
+     "FLJ20105",
+     "PICH",
+     "RAD26L"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "23371",
+    "symbols": [
+     "TNS2",
+     "TENC1",
+     "KIAA1075",
+     "C1-TEN"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "8544",
+    "symbols": [
+     "PIR"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "8317",
+    "symbols": [
+     "CDC7",
+     "CDC7L1",
+     "Hsk1",
+     "huCdc7",
+     "HsCdc7"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "2331",
+    "symbols": [
+     "FMOD",
+     "SLRR2E"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "51512",
+    "symbols": [
+     "GTSE1",
+     "GTSE-1",
+     "B99",
+     "Lnc_bc060912"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "6424",
+    "symbols": [
+     "SFRP4",
+     "frpHE",
+     "FRP-4",
+     "FRPHE",
+     "FRZB-2"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "55353",
+    "symbols": [
+     "LAPTM4B",
+     "LC27"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "8404",
+    "symbols": [
+     "SPARCL1",
+     "MAST9"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "990",
+    "symbols": [
+     "CDC6",
+     "CDC18L"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "7043",
+    "symbols": [
+     "TGFB3",
+     "ARVD1",
+     "ARVD"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "11047",
+    "symbols": [
+     "ADRM1",
+     "GP110",
+     "Rpn13",
+     "ARM1",
+     "PSMD16"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "58190",
+    "symbols": [
+     "CTDSP1",
+     "NLIIF",
+     "SCP1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "79838",
+    "symbols": [
+     "TMC5",
+     "FLJ13593"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "84823",
+    "symbols": [
+     "LMNB2",
+     "LMN2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "83989",
+    "symbols": [
+     "ARB2A",
+     "C5orf21",
+     "FAM172A",
+     "DKFZP564D172",
+     "Toupee"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "1793",
+    "symbols": [
+     "DOCK1",
+     "DOCK180",
+     "ced5"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "9358",
+    "symbols": [
+     "ITGBL1",
+     "TIED",
+     "OSCP"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "8836",
+    "symbols": [
+     "GGH",
+     "GATD10"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "57088",
+    "symbols": [
+     "PLSCR4"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "6642",
+    "symbols": [
+     "SNX1",
+     "SNX1A",
+     "MGC8664",
+     "HsT17379",
+     "Vps5"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "4969",
+    "symbols": [
+     "OGN",
+     "mimecan",
+     "OIF",
+     "SLRR3A"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "90627",
+    "symbols": [
+     "STARD13",
+     "LINC00464",
+     "GT650",
+     "DLC2",
+     "ARHGAP37"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "11260",
+    "symbols": [
+     "XPOT",
+     "XPO3"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "22827",
+    "symbols": [
+     "PUF60",
+     "FIR",
+     "SIAHBP1",
+     "RoBPI"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "9793",
+    "symbols": [
+     "CKAP5",
+     "ch-TOG",
+     "KIAA0097",
+     "TOG",
+     "TOGp"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "2791",
+    "symbols": [
+     "GNG11",
+     "GNGT11"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "55247",
+    "symbols": [
+     "NEIL3",
+     "FLJ10858",
+     "hFPG2",
+     "FPG2",
+     "hNEI3",
+     "ZGRF3"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10234",
+    "symbols": [
+     "LRRC17",
+     "P37NB",
+     "H_RG318M05.3"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "9353",
+    "symbols": [
+     "SLIT2",
+     "SLIL3",
+     "Slit-2"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "1841",
+    "symbols": [
+     "DTYMK",
+     "CDC8",
+     "TYMK",
+     "TMPK"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "9631",
+    "symbols": [
+     "NUP155",
+     "KIAA0791",
+     "N155"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "5424",
+    "symbols": [
+     "POLD1",
+     "POLD",
+     "CDC2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "6631",
+    "symbols": [
+     "SNRPC",
+     "U1-C",
+     "Yhc1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10186",
+    "symbols": [
+     "LHFPL6",
+     "LHFP",
+     "MGC22429"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "4521",
+    "symbols": [
+     "NUDT1",
+     "MTH1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "3479",
+    "symbols": [
+     "IGF1",
+     "IGF1A",
+     "IGFI",
+     "IGF-I",
+     "IGF"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "4172",
+    "symbols": [
+     "MCM3"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "2205",
+    "symbols": [
+     "FCER1A",
+     "FCE1A",
+     "FcepsilonRIalpha",
+     "FCERIA"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "55732",
+    "symbols": [
+     "FIRRM",
+     "C1orf112",
+     "FLJ10706",
+     "Apolo1",
+     "FLIP",
+     "MEICA1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "9077",
+    "symbols": [
+     "DIRAS3",
+     "ARHI",
+     "NOEY2"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "5557",
+    "symbols": [
+     "PRIM1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "54963",
+    "symbols": [
+     "UCKL1",
+     "URKL1",
+     "FLJ20517"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "54512",
+    "symbols": [
+     "EXOSC4",
+     "hRrp41p",
+     "FLJ20591",
+     "Rrp41p",
+     "RRP41",
+     "RRP41A",
+     "Ski6p",
+     "SKI6",
+     "p12A"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "79901",
+    "symbols": [
+     "CYBRD1",
+     "DCYTB",
+     "FLJ23462",
+     "FRRS3",
+     "CYB561A2"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "10161",
+    "symbols": [
+     "LPAR6",
+     "P2RY5",
+     "P2Y5"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "29097",
+    "symbols": [
+     "CNIH4",
+     "HSPC163"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "6513",
+    "symbols": [
+     "SLC2A1",
+     "GLUT1",
+     "GLUT",
+     "HTLVR",
+     "CSE",
+     "DYT18",
+     "DYT9",
+     "GLUT-1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "51123",
+    "symbols": [
+     "ZNF706",
+     "HSPC038"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "857",
+    "symbols": [
+     "CAV1",
+     "CAV"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "51110",
+    "symbols": [
+     "LACTB2",
+     "CGI-83"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "51204",
+    "symbols": [
+     "TACO1",
+     "CCDC44"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "54845",
+    "symbols": [
+     "ESRP1",
+     "RBM35A",
+     "FLJ20171"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "283",
+    "symbols": [
+     "ANG",
+     "RNASE5",
+     "RAA1",
+     "HEL168"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "79652",
+    "symbols": [
+     "TMEM204",
+     "C16orf30",
+     "FLJ20898",
+     "CLP24"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "56944",
+    "symbols": [
+     "OLFML3",
+     "HNOEL-iso",
+     "OLF44"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "3297",
+    "symbols": [
+     "HSF1",
+     "HSTF1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "27235",
+    "symbols": [
+     "COQ2",
+     "CL640",
+     "FLJ26072"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "2487",
+    "symbols": [
+     "FRZB",
+     "FRZB-PEN",
+     "FRZB1",
+     "SRFP3",
+     "FRP-3",
+     "SFRP3",
+     "FRE",
+     "FRITZ",
+     "FRZB-1",
+     "FZRB",
+     "hFIZ"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "3251",
+    "symbols": [
+     "HPRT1",
+     "HPRT",
+     "HGPRT"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "5119",
+    "symbols": [
+     "CHMP1A",
+     "PRSM1",
+     "PCOLN3",
+     "KIAA0047",
+     "CHMP1",
+     "Vps46A"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "6839",
+    "symbols": [
+     "SUV39H1",
+     "SUV39H",
+     "KMT1A"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "27303",
+    "symbols": [
+     "RBMS3"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "10468",
+    "symbols": [
+     "FST",
+     "FS"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "26289",
+    "symbols": [
+     "AK5"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "55038",
+    "symbols": [
+     "CDCA4",
+     "FLJ20764",
+     "Hepp"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "7283",
+    "symbols": [
+     "TUBG1",
+     "TUBG",
+     "TUBGCP1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "23212",
+    "symbols": [
+     "RRS1",
+     "KIAA0112"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "65094",
+    "symbols": [
+     "JMJD4",
+     "FLJ12517"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "55379",
+    "symbols": [
+     "LRRC59",
+     "PRO1855",
+     "FLJ21675"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10956",
+    "symbols": [
+     "OS9",
+     "OS-9",
+     "ERLEC2"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "51022",
+    "symbols": [
+     "GLRX2",
+     "GRX2",
+     "bA101E13.1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "54915",
+    "symbols": [
+     "YTHDF1",
+     "C20orf21",
+     "FLJ20391"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "54861",
+    "symbols": [
+     "SNRK",
+     "FLJ20224",
+     "HSNFRK",
+     "KIAA0096"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "79000",
+    "symbols": [
+     "AUNIP",
+     "C1orf135",
+     "MGC2603",
+     "AIBp"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "79776",
+    "symbols": [
+     "ZFHX4",
+     "ZFH4",
+     "FLJ20980"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "79971",
+    "symbols": [
+     "WLS",
+     "C1orf139",
+     "GPR177",
+     "FLJ23091",
+     "MRP",
+     "EVI",
+     "mig-14"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "7718",
+    "symbols": [
+     "ZNF165",
+     "ZSCAN7",
+     "CT53"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "201254",
+    "symbols": [
+     "CENPX",
+     "STRA13",
+     "MHF2",
+     "MGC14480",
+     "FAAP10",
+     "CENP-X"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "1848",
+    "symbols": [
+     "DUSP6",
+     "MKP-3",
+     "PYST1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "9037",
+    "symbols": [
+     "SEMA5A",
+     "SEMAF",
+     "semF"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "5433",
+    "symbols": [
+     "POLR2D",
+     "RPB4"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "29087",
+    "symbols": [
+     "THYN1",
+     "THY28"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "79864",
+    "symbols": [
+     "JHY",
+     "C11orf63",
+     "FLJ23554"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "358",
+    "symbols": [
+     "AQP1",
+     "CO",
+     "CHIP28"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "6634",
+    "symbols": [
+     "SNRPD3",
+     "SMD3",
+     "Sm-D3"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "2621",
+    "symbols": [
+     "GAS6",
+     "AXLLG",
+     "AXSF",
+     "FLJ34709",
+     "DKFZp666G247"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "56270",
+    "symbols": [
+     "WDR45B",
+     "WDR45L",
+     "WIPI3"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "5187",
+    "symbols": [
+     "PER1",
+     "PER",
+     "RIGUI"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "2098",
+    "symbols": [
+     "ESD"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "81887",
+    "symbols": [
+     "LAS1L",
+     "FLJ12525",
+     "Las1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "1811",
+    "symbols": [
+     "SLC26A3",
+     "DRA",
+     "CLD"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "54535",
+    "symbols": [
+     "CCHCR1",
+     "C6orf18",
+     "HCR"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "55526",
+    "symbols": [
+     "DHTKD1",
+     "KIAA1630",
+     "MGC3090",
+     "DKFZP762M115",
+     "CMT2Q",
+     "OADC-E1",
+     "OADH-E1",
+     "E1a"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "57161",
+    "symbols": [
+     "PELI2"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "2353",
+    "symbols": [
+     "FOS",
+     "c-fos",
+     "AP-1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "51279",
+    "symbols": [
+     "C1RL",
+     "C1r-LP",
+     "C1RL1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "60436",
+    "symbols": [
+     "TGIF2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "3028",
+    "symbols": [
+     "HSD17B10",
+     "HADH2",
+     "MRXS10",
+     "ERAB",
+     "MHBD",
+     "17b-HSD10",
+     "ABAD",
+     "SDR5C1",
+     "MRPP2",
+     "CAMR"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "26519",
+    "symbols": [
+     "TIMM10",
+     "TIM10",
+     "TIM10A",
+     "TIMM10A"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "25960",
+    "symbols": [
+     "ADGRA2",
+     "GPR124",
+     "TEM5",
+     "DKFZp434C211",
+     "DKFZp434J0911",
+     "KIAA1531",
+     "FLJ14390"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "10252",
+    "symbols": [
+     "SPRY1",
+     "hSPRY1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "6199",
+    "symbols": [
+     "RPS6KB2",
+     "p70S6Kb",
+     "P70-BETA",
+     "STK14B",
+     "KLS",
+     "S6KB",
+     "S6Kbeta",
+     "S6K\u03b2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "9824",
+    "symbols": [
+     "ARHGAP11A",
+     "KIAA0013"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "55630",
+    "symbols": [
+     "SLC39A4",
+     "AEZ",
+     "ZIP4",
+     "ZIP-4",
+     "AWMS2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "7049",
+    "symbols": [
+     "TGFBR3",
+     "betaglycan",
+     "BGCAN"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "8607",
+    "symbols": [
+     "RUVBL1",
+     "TIP49",
+     "NMP238",
+     "RVB1",
+     "TIP49a",
+     "Pontin52",
+     "ECP54",
+     "TIH1",
+     "Rvb1",
+     "INO80H"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "2581",
+    "symbols": [
+     "GALC"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "862",
+    "symbols": [
+     "RUNX1T1",
+     "AML1T1",
+     "CBFA2T1",
+     "CDR",
+     "ETO",
+     "MTG8",
+     "ZMYND2"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "8458",
+    "symbols": [
+     "TTF2",
+     "HuF2",
+     "ZGRF6"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "9775",
+    "symbols": [
+     "EIF4A3",
+     "DDX48",
+     "KIAA0111",
+     "EIF4AIII",
+     "Fal1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "3181",
+    "symbols": [
+     "HNRNPA2B1",
+     "HNRPA2B1",
+     "HNRNPA2",
+     "HNRNPB1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "26039",
+    "symbols": [
+     "SS18L1",
+     "KIAA0693",
+     "CREST",
+     "SMARCL2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10580",
+    "symbols": [
+     "SORBS1",
+     "SH3D5",
+     "FLJ12406",
+     "CAP",
+     "sh3p12",
+     "ponsin",
+     "KIAA1296"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "7056",
+    "symbols": [
+     "THBD",
+     "CD141",
+     "THRM",
+     "BDCA-3"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "8322",
+    "symbols": [
+     "FZD4",
+     "EVR1",
+     "CD344"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "1003",
+    "symbols": [
+     "CDH5",
+     "7B4",
+     "CD144"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "2152",
+    "symbols": [
+     "F3",
+     "CD142"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "55068",
+    "symbols": [
+     "ENOX1",
+     "FLJ10094",
+     "PIG38",
+     "CNOX",
+     "cCNOX"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "64785",
+    "symbols": [
+     "GINS3",
+     "FLJ13912",
+     "PSF3"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "79042",
+    "symbols": [
+     "TSEN34",
+     "LENG5",
+     "SEN34",
+     "SEN34L"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "8805",
+    "symbols": [
+     "TRIM24",
+     "TIF1",
+     "hTIF1",
+     "Tif1a",
+     "RNF82",
+     "TIF1A"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "1478",
+    "symbols": [
+     "CSTF2",
+     "CstF-64"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "1746",
+    "symbols": [
+     "DLX2",
+     "TES-1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "57125",
+    "symbols": [
+     "PLXDC1",
+     "TEM3",
+     "TEM7"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "22998",
+    "symbols": [
+     "LIMCH1",
+     "DKFZP686A01247",
+     "LIMCH1A",
+     "LMO7B"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "79915",
+    "symbols": [
+     "ATAD5",
+     "C17orf41",
+     "FLJ12735",
+     "FRAG1",
+     "ELG1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "7026",
+    "symbols": [
+     "NR2F2",
+     "ARP1",
+     "TFCOUP2",
+     "COUP-TFII",
+     "COUPTFB",
+     "SVP40",
+     "NF-E3",
+     "COUPTF2"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "7474",
+    "symbols": [
+     "WNT5A",
+     "hWNT5A"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "55857",
+    "symbols": [
+     "KIZ",
+     "NCRNA00153",
+     "C20orf19",
+     "PLK1S1",
+     "HT013"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "114625",
+    "symbols": [
+     "ERMAP",
+     "RD",
+     "SC",
+     "BTN\u00a05.00"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "8857",
+    "symbols": [
+     "FCGBP",
+     "FC(GAMMA)BP",
+     "FcgammaBP"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "26872",
+    "symbols": [
+     "STEAP1",
+     "STEAP",
+     "PRSS24"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "7226",
+    "symbols": [
+     "TRPM2",
+     "KNP3",
+     "LTRPC2",
+     "NUDT9L1",
+     "NUDT9H",
+     "EREG1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "29844",
+    "symbols": [
+     "TFPT",
+     "FB1",
+     "amida",
+     "INO80F"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "4719",
+    "symbols": [
+     "NDUFS1",
+     "CI-75k"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "4013",
+    "symbols": [
+     "VWA5A",
+     "LOH11CR2A",
+     "BCSC-1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "3396",
+    "symbols": [
+     "MRPL58",
+     "ICT1",
+     "DS-1",
+     "mL62"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "397",
+    "symbols": [
+     "ARHGDIB",
+     "RAP1GN1",
+     "GDIA2",
+     "GDID4",
+     "Ly-GDI",
+     "RhoGDI2"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "10436",
+    "symbols": [
+     "EMG1",
+     "C2F",
+     "NEP1",
+     "Grcc2f"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "51582",
+    "symbols": [
+     "AZIN1",
+     "OAZIN",
+     "OAZI",
+     "ODC1L"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10598",
+    "symbols": [
+     "AHSA1",
+     "C14orf3",
+     "p38",
+     "Aha1",
+     "hAha1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "333",
+    "symbols": [
+     "APLP1",
+     "APLP"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "51142",
+    "symbols": [
+     "CHCHD2",
+     "C7orf17",
+     "MIX17B",
+     "MNRR1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "27123",
+    "symbols": [
+     "DKK2"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "55020",
+    "symbols": [
+     "TTC38",
+     "FLJ20699"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "23460",
+    "symbols": [
+     "ABCA6",
+     "EST155051"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "64321",
+    "symbols": [
+     "SOX17"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "7098",
+    "symbols": [
+     "TLR3",
+     "CD283"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "6338",
+    "symbols": [
+     "SCNN1B",
+     "ENaCbeta"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "3692",
+    "symbols": [
+     "EIF6",
+     "ITGB4BP",
+     "p27BBP",
+     "b(2)gcn"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10253",
+    "symbols": [
+     "SPRY2",
+     "hSPRY2"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "2669",
+    "symbols": [
+     "GEM",
+     "KIR"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "79679",
+    "symbols": [
+     "VTCN1",
+     "B7-H4",
+     "FLJ22418",
+     "B7S1",
+     "B7x",
+     "B7H4"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "79618",
+    "symbols": [
+     "HMBOX1",
+     "HNF1LA",
+     "PBHNF",
+     "FLJ21616",
+     "HOT1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "8772",
+    "symbols": [
+     "FADD",
+     "MORT1",
+     "GIG3"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "9986",
+    "symbols": [
+     "RCE1",
+     "RCE1A",
+     "RCE1B",
+     "hRCE1",
+     "FACE-2",
+     "FACE2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "58500",
+    "symbols": [
+     "ZNF250",
+     "ZNF647",
+     "MGC9718",
+     "ZFP647"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "11081",
+    "symbols": [
+     "KERA",
+     "CNA2",
+     "SLRR2B"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "7064",
+    "symbols": [
+     "THOP1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "55799",
+    "symbols": [
+     "CACNA2D3",
+     "HSA272268",
+     "alpha2delta-3"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "49855",
+    "symbols": [
+     "SCAPER",
+     "ZNF291",
+     "Zfp291"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "54606",
+    "symbols": [
+     "DDX56",
+     "NOH61"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "7164",
+    "symbols": [
+     "TPD52L1",
+     "D53",
+     "hD53",
+     "TPD53"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "80775",
+    "symbols": [
+     "TMEM177",
+     "MGC10993"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "667",
+    "symbols": [
+     "DST",
+     "BPAG1",
+     "BP240",
+     "KIAA0728",
+     "FLJ21489",
+     "FLJ13425",
+     "FLJ32235",
+     "FLJ30627",
+     "CATX-15",
+     "BPA",
+     "MACF2"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "2781",
+    "symbols": [
+     "GNAZ"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "23464",
+    "symbols": [
+     "GCAT",
+     "KBL"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "79763",
+    "symbols": [
+     "ISOC2",
+     "FLJ23469"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "4649",
+    "symbols": [
+     "MYO9A",
+     "FLJ11061",
+     "FLJ13244",
+     "MGC71859"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "53820",
+    "symbols": [
+     "RIPPLY3",
+     "DSCR6"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "3638",
+    "symbols": [
+     "INSIG1",
+     "CL-6",
+     "MGC1405"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "11171",
+    "symbols": [
+     "STRAP",
+     "UNRIP",
+     "pt-wd",
+     "MAWD"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10992",
+    "symbols": [
+     "SF3B2",
+     "SAP145",
+     "SF3b1",
+     "Cus1",
+     "SF3b145"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "6832",
+    "symbols": [
+     "SUPV3L1",
+     "SUV3"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "55922",
+    "symbols": [
+     "NKRF",
+     "ITBA4",
+     "NRF"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10557",
+    "symbols": [
+     "RPP38"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "3216",
+    "symbols": [
+     "HOXB6",
+     "HOX2",
+     "HOX2B"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "54785",
+    "symbols": [
+     "BORCS6",
+     "C17orf59",
+     "FLJ20014"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "1933",
+    "symbols": [
+     "EEF1B2"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "8161",
+    "symbols": [
+     "COIL",
+     "CLN80",
+     "p80-coilin"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "594",
+    "symbols": [
+     "BCKDHB",
+     "OVD1B"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "6286",
+    "symbols": [
+     "S100P"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "3954",
+    "symbols": [
+     "LETM1",
+     "SLC55A1",
+     "Mdm38"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "51087",
+    "symbols": [
+     "YBX2",
+     "MSY2",
+     "CSDA3",
+     "Contrin"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10953",
+    "symbols": [
+     "TOMM34",
+     "TOM34",
+     "HTOM34P"
+    ],
+    "sign": 1.0
+   }
+  ],
+  "mod_PLAU": [
+   {
+    "entrez": "5328",
+    "symbols": [
+     "PLAU",
+     "URK",
+     "UPA"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "649",
+    "symbols": [
+     "BMP1",
+     "PCOLC",
+     "BMP-1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "4323",
+    "symbols": [
+     "MMP14",
+     "MT1-MMP"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "7070",
+    "symbols": [
+     "THY1",
+     "CD90"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "1290",
+    "symbols": [
+     "COL5A2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "8038",
+    "symbols": [
+     "ADAM12",
+     "MCMPMltna",
+     "MLTN"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "23452",
+    "symbols": [
+     "ANGPTL2",
+     "ARP2",
+     "HARP"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "4237",
+    "symbols": [
+     "MFAP2",
+     "MAGP",
+     "MAGP-1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "871",
+    "symbols": [
+     "SERPINH1",
+     "CBP1",
+     "CBP2",
+     "SERPINH2",
+     "HSP47"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "1291",
+    "symbols": [
+     "COL6A1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "3671",
+    "symbols": [
+     "ISLR",
+     "HsT17563"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "9260",
+    "symbols": [
+     "PDLIM7",
+     "ENIGMA"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "55742",
+    "symbols": [
+     "PARVA",
+     "MXRA2",
+     "FLJ12254",
+     "FLJ10793"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "25903",
+    "symbols": [
+     "OLFML2B",
+     "DKFZP586L151"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "6876",
+    "symbols": [
+     "TAGLN",
+     "SM22",
+     "WS3-10",
+     "TAGLN1",
+     "SMCC",
+     "DKFZp686P11128",
+     "TGLN"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "5476",
+    "symbols": [
+     "CTSA",
+     "GSL",
+     "PPGB"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "5159",
+    "symbols": [
+     "PDGFRB",
+     "PDGFR",
+     "JTK12",
+     "CD140b",
+     "PDGFR1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "54587",
+    "symbols": [
+     "MXRA8",
+     "DKFZp586E2023"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "9180",
+    "symbols": [
+     "OSMR",
+     "OSMRB",
+     "OSMRbeta"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "1281",
+    "symbols": [
+     "COL3A1",
+     "EDS4A"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "26585",
+    "symbols": [
+     "GREM1",
+     "CKTSF1B1",
+     "CRAC1",
+     "DRM",
+     "gremlin",
+     "DAND2",
+     "HMPS"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "2191",
+    "symbols": [
+     "FAP",
+     "DPPIV"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "1627",
+    "symbols": [
+     "DBN1",
+     "D0S117E"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "23299",
+    "symbols": [
+     "BICD2",
+     "KIAA0699"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "51330",
+    "symbols": [
+     "TNFRSF12A",
+     "FN14",
+     "TweakR",
+     "CD266"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "7421",
+    "symbols": [
+     "VDR",
+     "NR1I1",
+     "PPP1R163"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "6591",
+    "symbols": [
+     "SNAI2",
+     "SLUG",
+     "SLUGH1",
+     "SNAIL2",
+     "SLUGH"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "2037",
+    "symbols": [
+     "EPB41L2",
+     "4.1-G",
+     "4.1G"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "55033",
+    "symbols": [
+     "FKBP14",
+     "FLJ20731",
+     "FKBP22"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "4681",
+    "symbols": [
+     "NBL1",
+     "D1S1733E",
+     "NB",
+     "DAN",
+     "NO3",
+     "DAND1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10487",
+    "symbols": [
+     "CAP1",
+     "CAP"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "526",
+    "symbols": [
+     "ATP6V1B2",
+     "VPP3",
+     "ATP6B2",
+     "VATB",
+     "Vma2",
+     "HO57"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "2050",
+    "symbols": [
+     "EPHB4",
+     "HTK",
+     "Tyro11"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "9697",
+    "symbols": [
+     "TRAM2",
+     "KIAA0057"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "4921",
+    "symbols": [
+     "DDR2",
+     "TYRO10",
+     "NTRKR3"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "9945",
+    "symbols": [
+     "GFPT2",
+     "GFAT2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "4811",
+    "symbols": [
+     "NID1",
+     "NID",
+     "entactin"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "8481",
+    "symbols": [
+     "OFD1",
+     "CXorf5",
+     "RP23",
+     "71-7A",
+     "JBTS10"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "23705",
+    "symbols": [
+     "CADM1",
+     "TSLC1",
+     "IGSF4",
+     "NECL2",
+     "ST17",
+     "BL2",
+     "SYNCAM",
+     "IGSF4A",
+     "Necl-2",
+     "SYNCAM1",
+     "RA175"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "23166",
+    "symbols": [
+     "STAB1",
+     "KIAA0246",
+     "STAB-1",
+     "FEEL-1",
+     "CLEVER-1",
+     "FELE-1",
+     "FEX1",
+     "SCARH2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "8459",
+    "symbols": [
+     "TPST2",
+     "TANGO13B"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "23645",
+    "symbols": [
+     "PPP1R15A",
+     "GADD34"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "27295",
+    "symbols": [
+     "PDLIM3",
+     "ALP"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "93974",
+    "symbols": [
+     "ATP5IF1",
+     "ATPIF1",
+     "ATPI",
+     "IP",
+     "ATPIP",
+     "MGC1167",
+     "MGC8898"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "51592",
+    "symbols": [
+     "TRIM33",
+     "TIF1GAMMA",
+     "FLJ11429",
+     "KIAA1113",
+     "TIFGAMMA",
+     "RFG7",
+     "TF1G",
+     "TIF1G",
+     "PTC7"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "4314",
+    "symbols": [
+     "MMP3",
+     "STMY1",
+     "STMY"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "1833",
+    "symbols": [
+     "EPYC",
+     "DSPG3",
+     "Pg-Lb",
+     "SLRR3B"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "157567",
+    "symbols": [
+     "ANKRD46"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "8904",
+    "symbols": [
+     "CPNE1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "602",
+    "symbols": [
+     "BCL3",
+     "D19S37",
+     "BCL4"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "2720",
+    "symbols": [
+     "GLB1",
+     "ELNR1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "59286",
+    "symbols": [
+     "UBL5"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "8408",
+    "symbols": [
+     "ULK1",
+     "ATG1",
+     "ATG1A"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "55035",
+    "symbols": [
+     "NOL8",
+     "C9orf34",
+     "FLJ20736",
+     "Nop132"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "7042",
+    "symbols": [
+     "TGFB2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "5155",
+    "symbols": [
+     "PDGFB",
+     "SIS",
+     "SSV"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10409",
+    "symbols": [
+     "BASP1",
+     "NAP-22",
+     "NAP22",
+     "CAP23",
+     "CAP-23"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10993",
+    "symbols": [
+     "SDS",
+     "SDH"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "6233",
+    "symbols": [
+     "RPS27A",
+     "UBCEP80",
+     "Uba80",
+     "S27A",
+     "eS31"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "8507",
+    "symbols": [
+     "ENC1",
+     "NRPB",
+     "PIG10",
+     "ENC-1",
+     "TP53I10",
+     "KLHL37"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "176",
+    "symbols": [
+     "ACAN",
+     "MSK16",
+     "CSPG1",
+     "AGC1",
+     "CSPGCP"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "9849",
+    "symbols": [
+     "ZNF518A",
+     "ZNF518",
+     "KIAA0335"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "51463",
+    "symbols": [
+     "GPR89B",
+     "GPR89",
+     "GPR89C",
+     "LINC02804",
+     "SH120"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "6141",
+    "symbols": [
+     "RPL18",
+     "L18",
+     "eL18"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "4205",
+    "symbols": [
+     "MEF2A",
+     "RSRFC4",
+     "RSRFC9"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "1774",
+    "symbols": [
+     "DNASE1L1",
+     "DNL1L",
+     "DNAS1L1",
+     "XIB",
+     "DNASEX"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "4430",
+    "symbols": [
+     "MYO1B",
+     "myr1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "57158",
+    "symbols": [
+     "JPH2",
+     "JP-2",
+     "JP2"
+    ],
+    "sign": 1.0
+   }
+  ],
+  "mod_VEGF": [
+   {
+    "entrez": "7422",
+    "symbols": [
+     "VEGFA",
+     "VEGF",
+     "VEGF-A",
+     "VPF"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "911",
+    "symbols": [
+     "CD1C",
+     "CD1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "4005",
+    "symbols": [
+     "LMO2",
+     "RBTNL1",
+     "TTG2",
+     "RHOM2",
+     "RBTN2"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "4222",
+    "symbols": [
+     "MEOX1",
+     "MOX1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "29927",
+    "symbols": [
+     "SEC61A1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "6166",
+    "symbols": [
+     "RPL36AL",
+     "RPL36AP42"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "9450",
+    "symbols": [
+     "LY86",
+     "MD-1",
+     "dJ80N2.1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "22900",
+    "symbols": [
+     "CARD8",
+     "TUCAN",
+     "KIAA0955",
+     "CARDINAL",
+     "NDPP",
+     "Dakar"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "1776",
+    "symbols": [
+     "DNASE1L3",
+     "DNAS1L3",
+     "LSD",
+     "D3"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "1119",
+    "symbols": [
+     "CHKA",
+     "CHK",
+     "CKI"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "22809",
+    "symbols": [
+     "ATF5"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "23417",
+    "symbols": [
+     "MLYCD",
+     "MCD",
+     "hMCD"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "23592",
+    "symbols": [
+     "LEMD3",
+     "MAN1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "51621",
+    "symbols": [
+     "KLF13",
+     "RFLAT-1",
+     "BTEB3",
+     "NSLP1",
+     "FKLF-2"
+    ],
+    "sign": 1.0
+   }
+  ],
+  "mod_STAT1": [
+   {
+    "entrez": "6772",
+    "symbols": [
+     "STAT1",
+     "STAT91",
+     "ISGF-3"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "3627",
+    "symbols": [
+     "CXCL10",
+     "INP10",
+     "SCYB10",
+     "IFI10",
+     "IP-10",
+     "crg-2",
+     "mob-1",
+     "gIP-10"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "6890",
+    "symbols": [
+     "TAP1",
+     "ABCB2",
+     "PSF1",
+     "RING4",
+     "D6S114E"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "6373",
+    "symbols": [
+     "CXCL11",
+     "SCYB9B",
+     "SCYB11",
+     "H174",
+     "b-R1",
+     "I-TAC",
+     "IP-9"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "3620",
+    "symbols": [
+     "IDO1",
+     "IDO",
+     "INDO"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "4283",
+    "symbols": [
+     "CXCL9",
+     "CMK",
+     "MIG",
+     "SCYB9",
+     "Humig",
+     "crg-10"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "4599",
+    "symbols": [
+     "MX1",
+     "IFI-78K",
+     "MxA",
+     "lncMX1-215"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "27074",
+    "symbols": [
+     "LAMP3",
+     "LAMP",
+     "TSC403",
+     "DC-LAMP",
+     "DCLAMP",
+     "CD208"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "9636",
+    "symbols": [
+     "ISG15",
+     "G1P2",
+     "IFI15",
+     "UCRP"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "64108",
+    "symbols": [
+     "RTP4",
+     "IFRG28",
+     "Z3CXXC4"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "55008",
+    "symbols": [
+     "HERC6",
+     "FLJ20637"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10964",
+    "symbols": [
+     "IFI44L",
+     "C1orf29",
+     "GS3686",
+     "TLDC5B"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "4600",
+    "symbols": [
+     "MX2",
+     "MXB"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "3437",
+    "symbols": [
+     "IFIT3",
+     "IFIT4",
+     "ISG60",
+     "RIG-G",
+     "CIG-49",
+     "IFI60",
+     "GARG-49",
+     "IRG2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "51191",
+    "symbols": [
+     "HERC5",
+     "CEB1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "91543",
+    "symbols": [
+     "RSAD2",
+     "cig5",
+     "vig1",
+     "Viperin"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "23586",
+    "symbols": [
+     "RIGI",
+     "DDX58",
+     "RIG-I",
+     "FLJ13599",
+     "DKFZp434J1111",
+     "RIG-1",
+     "RIG1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "6352",
+    "symbols": [
+     "CCL5",
+     "D17S136E",
+     "SCYA5",
+     "RANTES",
+     "SISd",
+     "TCP228",
+     "MGC17164"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "27299",
+    "symbols": [
+     "ADAMDEC1",
+     "M12.219"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "914",
+    "symbols": [
+     "CD2",
+     "SRBC"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "55601",
+    "symbols": [
+     "DDX60",
+     "FLJ20035"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10866",
+    "symbols": [
+     "HCP5",
+     "D6S2650E",
+     "P5-1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "9111",
+    "symbols": [
+     "NMI"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "9806",
+    "symbols": [
+     "SPOCK2",
+     "KIAA0275",
+     "testican-2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "6355",
+    "symbols": [
+     "CCL8",
+     "SCYA8",
+     "MCP-2",
+     "HC14"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10346",
+    "symbols": [
+     "TRIM22",
+     "STAF50",
+     "GPSTAF50",
+     "RNF94"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "4069",
+    "symbols": [
+     "LYZ"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "3659",
+    "symbols": [
+     "IRF1",
+     "MAR"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "3902",
+    "symbols": [
+     "LAG3",
+     "CD223"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "9595",
+    "symbols": [
+     "CYTIP",
+     "PSCDBP",
+     "B3-1",
+     "HE",
+     "CYBR",
+     "CASP",
+     "CYTHIP"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "22797",
+    "symbols": [
+     "TFEC",
+     "TCFEC",
+     "TFECL",
+     "bHLHe34"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10537",
+    "symbols": [
+     "UBD",
+     "FAT10"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "11262",
+    "symbols": [
+     "SP140",
+     "LYSP100-B",
+     "LYSP100-A"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "1075",
+    "symbols": [
+     "CTSC",
+     "PLS",
+     "PALS",
+     "DPP1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "2537",
+    "symbols": [
+     "IFI6",
+     "G1P3",
+     "IFI616",
+     "FAM14C",
+     "6-16",
+     "IFI-6-16"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "7941",
+    "symbols": [
+     "PLA2G7",
+     "PAFAH",
+     "LDL-PLA2",
+     "Lp-PLA2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "917",
+    "symbols": [
+     "CD3G",
+     "CD3-GAMMA",
+     "CD3GAMMA"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "1890",
+    "symbols": [
+     "TYMP",
+     "MNGIE",
+     "ECGF1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "51316",
+    "symbols": [
+     "PLAC8",
+     "onzin",
+     "C15"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10875",
+    "symbols": [
+     "FGL2",
+     "pT49",
+     "T49"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "3003",
+    "symbols": [
+     "GZMK",
+     "TRYP2",
+     "PRSS"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "962",
+    "symbols": [
+     "CD48",
+     "BCM1",
+     "BLAST",
+     "mCD48",
+     "hCD48",
+     "SLAMF2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "6775",
+    "symbols": [
+     "STAT4"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "2841",
+    "symbols": [
+     "GPR18",
+     "DRV2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "5026",
+    "symbols": [
+     "P2RX5",
+     "P2X5",
+     "LRH-1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10437",
+    "symbols": [
+     "IFI30",
+     "IFI-30",
+     "GILT",
+     "IP30",
+     "MGC32056",
+     "IP-30"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "4068",
+    "symbols": [
+     "SH2D1A",
+     "IMD5",
+     "LYP",
+     "XLP",
+     "DSHP",
+     "XLPD",
+     "EBVS",
+     "SAP"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "7805",
+    "symbols": [
+     "LAPTM5"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "969",
+    "symbols": [
+     "CD69",
+     "CLEC2C"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "5778",
+    "symbols": [
+     "PTPN7",
+     "HEPTP",
+     "LC-PTP"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "3394",
+    "symbols": [
+     "IRF8",
+     "ICSBP1",
+     "IRF-8",
+     "ICSBP"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "11040",
+    "symbols": [
+     "PIM2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "51513",
+    "symbols": [
+     "ETV7",
+     "TEL2",
+     "TEL-2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "29909",
+    "symbols": [
+     "GPR171",
+     "H963"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "5720",
+    "symbols": [
+     "PSME1",
+     "IFI5111",
+     "PA28alpha"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "330",
+    "symbols": [
+     "BIRC3",
+     "API2",
+     "cIAP2",
+     "hiap-1",
+     "MIHC",
+     "RNF49",
+     "MALT2",
+     "c-IAP2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "356",
+    "symbols": [
+     "FASLG",
+     "APT1LG1",
+     "TNFSF6",
+     "FasL",
+     "CD178"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "8519",
+    "symbols": [
+     "IFITM1",
+     "IFI17",
+     "9-27",
+     "CD225",
+     "DSPA2a"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "24138",
+    "symbols": [
+     "IFIT5",
+     "RI58"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "3689",
+    "symbols": [
+     "ITGB2",
+     "CD18",
+     "MFI7",
+     "LFA-1",
+     "MAC-1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "11118",
+    "symbols": [
+     "BTN3A2",
+     "BTN\u00a03.20"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "3059",
+    "symbols": [
+     "HCLS1",
+     "HS1",
+     "CTTNL"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "6398",
+    "symbols": [
+     "SECTM1",
+     "K12"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "55843",
+    "symbols": [
+     "ARHGAP15",
+     "BM046"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "22914",
+    "symbols": [
+     "KLRK1",
+     "D12S2489E",
+     "NKG2D",
+     "KLR",
+     "NKG2-D",
+     "CD314"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10261",
+    "symbols": [
+     "IGSF6",
+     "DORA"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "1880",
+    "symbols": [
+     "GPR183",
+     "EBI2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "26034",
+    "symbols": [
+     "IPCEF1",
+     "PIP3-E",
+     "KIAA0403"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "29887",
+    "symbols": [
+     "SNX10"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "79132",
+    "symbols": [
+     "DHX58",
+     "LGP2",
+     "D11LGP2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "684",
+    "symbols": [
+     "BST2",
+     "CD317",
+     "tetherin",
+     "BST-2",
+     "HM1.24"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "55337",
+    "symbols": [
+     "SHFL",
+     "C19orf66",
+     "FLJ11286",
+     "RyDEN",
+     "IRAV",
+     "SFL"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "341",
+    "symbols": [
+     "APOC1",
+     "Apo-CI",
+     "ApoC-I",
+     "apo-CIB",
+     "apoC-IB",
+     "APOC1B"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "51237",
+    "symbols": [
+     "MZB1",
+     "PACAP",
+     "MGC29506",
+     "HSPC190",
+     "pERp1",
+     "MEDA-7"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "56829",
+    "symbols": [
+     "ZC3HAV1",
+     "ZAP",
+     "FLB6421",
+     "FLJ13288",
+     "MGC48898",
+     "ZC3HDC2",
+     "ZC3H2",
+     "PARP13",
+     "ARTD13"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "23564",
+    "symbols": [
+     "DDAH2",
+     "G6A",
+     "DDAHII"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "23547",
+    "symbols": [
+     "LILRA4",
+     "ILT7",
+     "CD85g"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10148",
+    "symbols": [
+     "EBI3",
+     "IL27B",
+     "IL35B"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "3823",
+    "symbols": [
+     "KLRC3",
+     "NKG2-E"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "50856",
+    "symbols": [
+     "CLEC4A",
+     "CLECSF6",
+     "DCIR",
+     "DDB27",
+     "CD367",
+     "hDCIR"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "959",
+    "symbols": [
+     "CD40LG",
+     "HIGM1",
+     "IMD3",
+     "TNFSF5",
+     "CD40L",
+     "TRAP",
+     "gp39",
+     "hCD40L",
+     "CD154",
+     "CD40-L",
+     "T-BAM"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "7409",
+    "symbols": [
+     "VAV1",
+     "VAV"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "2745",
+    "symbols": [
+     "GLRX",
+     "GRX",
+     "GRX1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "54",
+    "symbols": [
+     "ACP5",
+     "TRAP",
+     "HPAP",
+     "TRAcP"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "5993",
+    "symbols": [
+     "RFX5"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "51816",
+    "symbols": [
+     "ADA2",
+     "IDGFL",
+     "CECR1",
+     "ADGF"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "7187",
+    "symbols": [
+     "TRAF3",
+     "CAP-1",
+     "CD40bp",
+     "CRAF1",
+     "LAP1",
+     "RNF118"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "4218",
+    "symbols": [
+     "RAB8A",
+     "MEL",
+     "RAB8"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "3606",
+    "symbols": [
+     "IL18",
+     "IGIF",
+     "IL1F4",
+     "IL-1g",
+     "IL-18"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "1942",
+    "symbols": [
+     "EFNA1",
+     "TNFAIP4",
+     "EPLG1",
+     "LERK1",
+     "ECKLG",
+     "GMAN"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "10125",
+    "symbols": [
+     "RASGRP1",
+     "CalDAG-GEFII",
+     "RASGRP"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "9985",
+    "symbols": [
+     "REC8",
+     "REC8L1",
+     "Rec8p",
+     "kleisin-alpha"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "9034",
+    "symbols": [
+     "CCRL2",
+     "HCR",
+     "CRAM-B",
+     "CKRX",
+     "CRAM-A"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10126",
+    "symbols": [
+     "DNAL4",
+     "dJ327J16",
+     "PIG27"
+    ],
+    "sign": -1.0
+   }
+  ],
+  "mod_CASP3": [
+   {
+    "entrez": "836",
+    "symbols": [
+     "CASP3",
+     "CPP32",
+     "CPP32B",
+     "Yama",
+     "apopain"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10393",
+    "symbols": [
+     "ANAPC10",
+     "APC10",
+     "DOC1",
+     "DKFZP564L0562"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "7738",
+    "symbols": [
+     "ZNF184"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "3728",
+    "symbols": [
+     "JUP",
+     "CTNNG",
+     "DP3",
+     "PDGB",
+     "PKGB",
+     "DPIII",
+     "PG"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "8237",
+    "symbols": [
+     "USP11",
+     "UHX1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "402",
+    "symbols": [
+     "ARL2",
+     "ARFL2"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "25978",
+    "symbols": [
+     "CHMP2B",
+     "DKFZP564O123",
+     "CHMP2.5",
+     "VPS2B"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "6301",
+    "symbols": [
+     "SARS1",
+     "SARS",
+     "SERS"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "55361",
+    "symbols": [
+     "PI4K2A",
+     "PI4KII",
+     "DKFZP761G1923",
+     "PIK42A"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "5977",
+    "symbols": [
+     "DPF2",
+     "REQ",
+     "ubi-d4",
+     "BAF45d",
+     "SMARCG2"
+    ],
+    "sign": -1.0
+   }
+  ],
+  "ggi": [
+   {
+    "entrez": "3838",
+    "symbols": [
+     "KPNA2",
+     "RCH1",
+     "SRP1alpha",
+     "IPOA1",
+     "QIP2",
+     "PTAC58"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "8140",
+    "symbols": [
+     "SLC7A5",
+     "LAT1",
+     "E16",
+     "D16S469E",
+     "MPE16",
+     "CD98"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "4141",
+    "symbols": [
+     "MARS1",
+     "MARS",
+     "MetRS",
+     "SPG70",
+     "CMT2U"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "7334",
+    "symbols": [
+     "UBE2N",
+     "UbcH-ben",
+     "UBC13",
+     "MGC8489"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10212",
+    "symbols": [
+     "DDX39A",
+     "DDX39",
+     "DDXL",
+     "BAT1L",
+     "URH49"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "4605",
+    "symbols": [
+     "MYBL2",
+     "BMYB",
+     "B-MYB"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "332",
+    "symbols": [
+     "BIRC5",
+     "API4",
+     "EPR-1",
+     "survivin"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "4171",
+    "symbols": [
+     "MCM2",
+     "CDCL1",
+     "D3S3194",
+     "KIAA0030",
+     "BM28",
+     "cdc19",
+     "DFNA70"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "5347",
+    "symbols": [
+     "PLK1",
+     "PLK"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "2305",
+    "symbols": [
+     "FOXM1",
+     "FKHL16",
+     "HFH-11",
+     "trident",
+     "HNF-3",
+     "INS-1",
+     "MPHOSPH2",
+     "TGT3"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "9133",
+    "symbols": [
+     "CCNB2",
+     "HsT17299"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "27338",
+    "symbols": [
+     "UBE2S",
+     "E2-EPF"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "991",
+    "symbols": [
+     "CDC20",
+     "p55CDC",
+     "CDC20A"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "11065",
+    "symbols": [
+     "UBE2C",
+     "UBCH10"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10535",
+    "symbols": [
+     "RNASEH2A",
+     "RNASEHI",
+     "RNHIA",
+     "RNHL",
+     "AGS4"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "8914",
+    "symbols": [
+     "TIMELESS",
+     "hTIM",
+     "TIM",
+     "TIM1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10615",
+    "symbols": [
+     "SPAG5",
+     "DEEPEST",
+     "MAP126",
+     "hMAP126"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "983",
+    "symbols": [
+     "CDK1",
+     "CDC2",
+     "CDC28A"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "4001",
+    "symbols": [
+     "LMNB1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "4085",
+    "symbols": [
+     "MAD2L1",
+     "MAD2",
+     "HSMAD2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "890",
+    "symbols": [
+     "CCNA2",
+     "CCNA"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "9232",
+    "symbols": [
+     "PTTG1",
+     "TUTR1",
+     "PTTG",
+     "HPTTG",
+     "EAP1",
+     "securin",
+     "ECRAR"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "3149",
+    "symbols": [
+     "HMGB3",
+     "HMG4",
+     "HMG2A",
+     "MGC90319"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "701",
+    "symbols": [
+     "BUB1B",
+     "BUBR1",
+     "MAD3L",
+     "Bub1A",
+     "SSK1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "9787",
+    "symbols": [
+     "DLGAP5",
+     "DLG7",
+     "KIAA0008",
+     "HURP"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "11130",
+    "symbols": [
+     "ZWINT",
+     "KNTC2AP",
+     "SIP30",
+     "Zwint1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "9319",
+    "symbols": [
+     "TRIP13",
+     "16E1BP"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "6790",
+    "symbols": [
+     "AURKA",
+     "STK15",
+     "STK6",
+     "BTAK",
+     "AurA",
+     "STK7",
+     "ARK1",
+     "PPP1R47",
+     "AIK"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10403",
+    "symbols": [
+     "NDC80",
+     "KNTC2",
+     "HEC",
+     "HEC1",
+     "hsNDC80",
+     "TID3"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "1017",
+    "symbols": [
+     "CDK2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "51512",
+    "symbols": [
+     "GTSE1",
+     "GTSE-1",
+     "B99",
+     "Lnc_bc060912"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "3832",
+    "symbols": [
+     "KIF11",
+     "KNSL1",
+     "Eg5",
+     "HKSP",
+     "TRIP5"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "9156",
+    "symbols": [
+     "EXO1",
+     "HEX1",
+     "hExoI"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10024",
+    "symbols": [
+     "TROAP",
+     "TASTIN"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "993",
+    "symbols": [
+     "CDC25A"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "4521",
+    "symbols": [
+     "NUDT1",
+     "MTH1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "2237",
+    "symbols": [
+     "FEN1",
+     "RAD2",
+     "FEN-1",
+     "MF1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "9700",
+    "symbols": [
+     "ESPL1",
+     "KIAA0165",
+     "ESP1",
+     "SEPA"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "7272",
+    "symbols": [
+     "TTK",
+     "MPS1",
+     "MPS1L1",
+     "CT96",
+     "MPH1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "9833",
+    "symbols": [
+     "MELK",
+     "KIAA0175"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "1058",
+    "symbols": [
+     "CENPA",
+     "CENP-A",
+     "CenH3"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "9134",
+    "symbols": [
+     "CCNE2",
+     "CYCE2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "1062",
+    "symbols": [
+     "CENPE",
+     "KIF10",
+     "PPP1R61"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "641",
+    "symbols": [
+     "BLM",
+     "BS",
+     "RECQL3",
+     "RECQ2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "9928",
+    "symbols": [
+     "KIF14",
+     "KIAA0042"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "3161",
+    "symbols": [
+     "HMMR",
+     "RHAMM",
+     "CD168"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "1063",
+    "symbols": [
+     "CENPF",
+     "hcp-1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "22948",
+    "symbols": [
+     "CCT5",
+     "KIAA0098",
+     "CCTE"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "84790",
+    "symbols": [
+     "TUBA1C",
+     "TUBA6",
+     "MGC14580",
+     "MGC10851",
+     "bcm948"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "11004",
+    "symbols": [
+     "KIF2C",
+     "KNSL6",
+     "MCAK",
+     "CT139"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "9212",
+    "symbols": [
+     "AURKB",
+     "STK12",
+     "Aik2",
+     "IPL1",
+     "AurB",
+     "AIM-1",
+     "ARK2",
+     "STK5",
+     "PPP1R48"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "699",
+    "symbols": [
+     "BUB1",
+     "BUB1L",
+     "hBUB1",
+     "BUB1A"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "3833",
+    "symbols": [
+     "KIFC1",
+     "KNSL2",
+     "HSET"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "1033",
+    "symbols": [
+     "CDKN3",
+     "KAP",
+     "CDI1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "6241",
+    "symbols": [
+     "RRM2",
+     "C2orf48",
+     "FLJ25102"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "22974",
+    "symbols": [
+     "TPX2",
+     "C20orf2",
+     "C20orf1",
+     "p100",
+     "DIL-2",
+     "HCA519",
+     "FLS353"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10376",
+    "symbols": [
+     "TUBA1B",
+     "K-ALPHA-1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "4288",
+    "symbols": [
+     "MKI67",
+     "MIB-1",
+     "PPP1R105",
+     "Ki-67"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "4173",
+    "symbols": [
+     "MCM4",
+     "CDC21",
+     "CDC54",
+     "hCdc21",
+     "P1-Cdc21",
+     "MGC33310"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "23397",
+    "symbols": [
+     "NCAPH",
+     "BRRN1",
+     "CAP-H",
+     "hCAP-H",
+     "NCAPH1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "11339",
+    "symbols": [
+     "OIP5",
+     "MIS18B",
+     "hMIS18beta",
+     "CT86"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "3015",
+    "symbols": [
+     "H2AZ1",
+     "H2AZ",
+     "H2AFZ",
+     "H2A.Z"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "6472",
+    "symbols": [
+     "SHMT2",
+     "SHMT",
+     "mSHMT"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "8833",
+    "symbols": [
+     "GMPS",
+     "GATD7"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "891",
+    "symbols": [
+     "CCNB1",
+     "CCNB"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "55969",
+    "symbols": [
+     "RAB5IF",
+     "C20orf24",
+     "PNAS-11",
+     "RIP5",
+     "RCAF1",
+     "OPTI"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "9055",
+    "symbols": [
+     "PRC1",
+     "ASE1",
+     "MAP65"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "51203",
+    "symbols": [
+     "NUSAP1",
+     "FLJ13421",
+     "LNP",
+     "ANKT",
+     "SAPL",
+     "BM037",
+     "PRO0310p1",
+     "Q0310"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "24137",
+    "symbols": [
+     "KIF4A",
+     "KIF4-G1",
+     "KIF4",
+     "HSA271784",
+     "FLJ12530",
+     "FLJ12655",
+     "FLJ14204",
+     "FLJ20631",
+     "MRX100"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "56942",
+    "symbols": [
+     "CMC2",
+     "C16orf61",
+     "DC13",
+     "MGC45036"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "55165",
+    "symbols": [
+     "CEP55",
+     "C10orf3",
+     "FLJ10540",
+     "CT111"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "29095",
+    "symbols": [
+     "ORMDL2",
+     "HSPC160",
+     "adoplin-2",
+     "MST095",
+     "MSTP095"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "64151",
+    "symbols": [
+     "NCAPG",
+     "FLJ12450",
+     "hCAP-G",
+     "CAP-G",
+     "YCG1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "55355",
+    "symbols": [
+     "HJURP",
+     "DKFZp762E1312",
+     "URLC9",
+     "hFLEG1",
+     "FAKTS"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10112",
+    "symbols": [
+     "KIF20A",
+     "RAB6KIFL",
+     "MKLP2"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "79682",
+    "symbols": [
+     "CENPU",
+     "MLF1IP",
+     "CENP-U",
+     "KLIP1",
+     "CENP-50",
+     "PBIP1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "79075",
+    "symbols": [
+     "DSCC1",
+     "DCC1",
+     "hDCC1",
+     "MGC5528"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "56992",
+    "symbols": [
+     "KIF15",
+     "KNSL7",
+     "HKLP2",
+     "NY-BR-62"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10721",
+    "symbols": [
+     "POLQ"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "55839",
+    "symbols": [
+     "CENPN",
+     "C16orf60",
+     "FLJ13607",
+     "FLJ22660",
+     "BM039"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "259266",
+    "symbols": [
+     "ASPM",
+     "MCPH5",
+     "Calmbp1",
+     "ASP",
+     "FLJ10517",
+     "FLJ10549"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "55010",
+    "symbols": [
+     "PARPBP",
+     "C12orf48",
+     "FLJ20641",
+     "PARI"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "55388",
+    "symbols": [
+     "MCM10",
+     "PRO2249",
+     "CNA43",
+     "DNA43"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "83461",
+    "symbols": [
+     "CDCA3",
+     "TOME-1",
+     "GRCC8"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "55143",
+    "symbols": [
+     "CDCA8",
+     "FLJ12042",
+     "MESRGP",
+     "BOR",
+     "DasraB"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "54478",
+    "symbols": [
+     "PIMREG",
+     "FAM64A",
+     "FLJ10156",
+     "FLJ10491",
+     "CATS",
+     "RCS1"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "29980",
+    "symbols": [
+     "DONSON",
+     "C21orf60",
+     "B17",
+     "C2TA",
+     "DKFZP434M035"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "29127",
+    "symbols": [
+     "RACGAP1",
+     "MgcRacGAP",
+     "CYK4"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "10129",
+    "symbols": [
+     "FRY",
+     "C13orf14",
+     "bA37E23.1",
+     "13CDNA73",
+     "CG003"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "8100",
+    "symbols": [
+     "IFT88",
+     "TTC10",
+     "hTg737",
+     "Tg737",
+     "D13S1056E",
+     "MGC26259"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "1524",
+    "symbols": [
+     "CX3CR1",
+     "GPR13",
+     "CMKBRL1",
+     "CMKDR1",
+     "V28",
+     "CCRL1"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "90627",
+    "symbols": [
+     "STARD13",
+     "LINC00464",
+     "GT650",
+     "DLC2",
+     "ARHGAP37"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "3913",
+    "symbols": [
+     "LAMB2",
+     "LAMS",
+     "NPHS5"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "7178",
+    "symbols": [
+     "TPT1",
+     "TCTP",
+     "fortilin"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "79901",
+    "symbols": [
+     "CYBRD1",
+     "DCYTB",
+     "FLJ23462",
+     "FRRS3",
+     "CYB561A2"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "27244",
+    "symbols": [
+     "SESN1",
+     "SEST1",
+     "PA26"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "582",
+    "symbols": [
+     "BBS1",
+     "FLJ23590"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "56912",
+    "symbols": [
+     "IFT46",
+     "C11orf60",
+     "C11orf2",
+     "FLJ21827",
+     "FAP32",
+     "CFAP32"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "55650",
+    "symbols": [
+     "PIGV",
+     "FLJ20477",
+     "PIG-V",
+     "GPI-MT-II"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "79846",
+    "symbols": [
+     "CFAP69",
+     "C7orf63",
+     "FLJ21062",
+     "FAP69"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "79864",
+    "symbols": [
+     "JHY",
+     "C11orf63",
+     "FLJ23554"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "57728",
+    "symbols": [
+     "WDR19",
+     "Pwdmp",
+     "KIAA1638",
+     "FLJ23127",
+     "ORF26",
+     "DYF-2",
+     "Oseg6",
+     "IFT144",
+     "NPHP13",
+     "FAP66",
+     "CFAP66"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "23410",
+    "symbols": [
+     "SIRT3",
+     "SIR2L3"
+    ],
+    "sign": -1.0
+   },
+   {
+    "entrez": "54737",
+    "symbols": [
+     "MPHOSPH8",
+     "mpp8",
+     "HSMPP8"
+    ],
+    "sign": -1.0
+   }
+  ],
+  "onc_proliferation": [
+   {
+    "entrez": "4288",
+    "symbols": [
+     "MKI67",
+     "MIB-1",
+     "PPP1R105",
+     "Ki-67"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "6790",
+    "symbols": [
+     "AURKA",
+     "STK15",
+     "STK6",
+     "BTAK",
+     "AurA",
+     "STK7",
+     "ARK1",
+     "PPP1R47",
+     "AIK"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "332",
+    "symbols": [
+     "BIRC5",
+     "API4",
+     "EPR-1",
+     "survivin"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "891",
+    "symbols": [
+     "CCNB1",
+     "CCNB"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "4605",
+    "symbols": [
+     "MYBL2",
+     "BMYB",
+     "B-MYB"
+    ],
+    "sign": 1.0
+   }
+  ],
+  "onc_her2": [
+   {
+    "entrez": "2886",
+    "symbols": [
+     "GRB7"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "2064",
+    "symbols": [
+     "ERBB2",
+     "NGL",
+     "NEU",
+     "HER-2",
+     "CD340",
+     "HER2",
+     "c-ERB2",
+     "c-ERB-2",
+     "MLN-19",
+     "p185(erbB2)"
+    ],
+    "sign": 1.0
+   }
+  ],
+  "onc_estrogen": [
+   {
+    "entrez": "2099",
+    "symbols": [
+     "ESR1",
+     "ESR",
+     "ER",
+     "NR3A1",
+     "Era",
+     "ER-alpha"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "5241",
+    "symbols": [
+     "PGR",
+     "PR",
+     "NR3C3"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "596",
+    "symbols": [
+     "BCL2",
+     "Bcl-2",
+     "PPP1R50"
+    ],
+    "sign": 1.0
+   },
+   {
+    "entrez": "57758",
+    "symbols": [
+     "SCUBE2",
+     "Cegf1",
+     "Cegb1",
+     "FLJ16792"
+    ],
+    "sign": 1.0
+   }
+  ]
+ },
+ "pam50": {
+  "subtypes": [
+   "Basal",
+   "Her2",
+   "LumA",
+   "LumB",
+   "Normal"
+  ],
+  "genes": [
+   {
+    "symbols": [
+     "ACTR3B",
+     "ARP11",
+     "ARP3beta"
+    ],
+    "centroid": [
+     0.718332,
+     -0.481666,
+     0.009981,
+     -0.190551,
+     0.465723
+    ]
+   },
+   {
+    "symbols": [
+     "ANLN",
+     "ANILLIN",
+     "Scraps",
+     "scra"
+    ],
+    "centroid": [
+     0.537372,
+     0.266932,
+     -0.579246,
+     0.098804,
+     -0.83694
+    ]
+   },
+   {
+    "symbols": [
+     "BAG1"
+    ],
+    "centroid": [
+     -0.574507,
+     -0.476073,
+     0.758221,
+     -0.405459,
+     0.316553
+    ]
+   },
+   {
+    "symbols": [
+     "BCL2",
+     "Bcl-2",
+     "PPP1R50"
+    ],
+    "centroid": [
+     -0.11876,
+     -0.157914,
+     0.287487,
+     -0.441339,
+     0.533979
+    ]
+   },
+   {
+    "symbols": [
+     "BIRC5",
+     "API4",
+     "EPR-1",
+     "survivin"
+    ],
+    "centroid": [
+     0.300489,
+     0.405733,
+     -0.881434,
+     0.603851,
+     -0.876636
+    ]
+   },
+   {
+    "symbols": [
+     "BLVRA",
+     "BLVR",
+     "BVRA",
+     "BVRalpha"
+    ],
+    "centroid": [
+     -0.642678,
+     0.335336,
+     0.042042,
+     0.691205,
+     -0.163413
+    ]
+   },
+   {
+    "symbols": [
+     "CCNB1",
+     "CCNB"
+    ],
+    "centroid": [
+     0.191208,
+     0.135477,
+     -0.491662,
+     0.503176,
+     -0.545269
+    ]
+   },
+   {
+    "symbols": [
+     "CCNE1",
+     "CCNE"
+    ],
+    "centroid": [
+     0.560271,
+     0.066872,
+     -0.430291,
+     -0.016661,
+     -0.255476
+    ]
+   },
+   {
+    "symbols": [
+     "CDC20",
+     "p55CDC",
+     "CDC20A"
+    ],
+    "centroid": [
+     0.399695,
+     0.008356,
+     -0.469044,
+     -0.070412,
+     -0.045505
+    ]
+   },
+   {
+    "symbols": [
+     "CDC6",
+     "CDC18L"
+    ],
+    "centroid": [
+     0.159418,
+     0.589007,
+     -0.612824,
+     0.510896,
+     -0.595752
+    ]
+   },
+   {
+    "symbols": [
+     "NUF2",
+     "CDCA1",
+     "NUF2R",
+     "CT106"
+    ],
+    "centroid": [
+     0.4724,
+     -0.023819,
+     -0.712521,
+     0.589627,
+     -0.370533
+    ]
+   },
+   {
+    "symbols": [
+     "CDH3",
+     "CDHP",
+     "PCAD"
+    ],
+    "centroid": [
+     0.508362,
+     0.21089,
+     -0.513649,
+     -1.419134,
+     0.757921
+    ]
+   },
+   {
+    "symbols": [
+     "CENPF",
+     "hcp-1"
+    ],
+    "centroid": [
+     0.482976,
+     -0.029266,
+     -0.54374,
+     0.278229,
+     -0.070583
+    ]
+   },
+   {
+    "symbols": [
+     "CEP55",
+     "C10orf3",
+     "FLJ10540",
+     "CT111"
+    ],
+    "centroid": [
+     0.567749,
+     0.276381,
+     -0.746722,
+     0.460016,
+     -1.162374
+    ]
+   },
+   {
+    "symbols": [
+     "CXXC5",
+     "HSPC195",
+     "RINF",
+     "WID"
+    ],
+    "centroid": [
+     -0.920386,
+     -0.241551,
+     0.467412,
+     0.321335,
+     0.050901
+    ]
+   },
+   {
+    "symbols": [
+     "EGFR",
+     "ERBB",
+     "ERBB1",
+     "ERRP"
+    ],
+    "centroid": [
+     -0.030417,
+     -0.096383,
+     0.009163,
+     -0.412401,
+     0.341637
+    ]
+   },
+   {
+    "symbols": [
+     "ERBB2",
+     "NGL",
+     "NEU",
+     "HER-2",
+     "CD340",
+     "HER2",
+     "c-ERB2",
+     "c-ERB-2",
+     "MLN-19",
+     "p185(erbB2)"
+    ],
+    "centroid": [
+     -0.808354,
+     1.759844,
+     0.608191,
+     0.159652,
+     -0.870238
+    ]
+   },
+   {
+    "symbols": [
+     "ESR1",
+     "ESR",
+     "ER",
+     "NR3A1",
+     "Era",
+     "ER-alpha"
+    ],
+    "centroid": [
+     -2.746513,
+     -1.513111,
+     2.161412,
+     1.6059,
+     -0.418282
+    ]
+   },
+   {
+    "symbols": [
+     "EXO1",
+     "HEX1",
+     "hExoI"
+    ],
+    "centroid": [
+     0.42809,
+     0.049297,
+     -0.567475,
+     0.141241,
+     -0.450781
+    ]
+   },
+   {
+    "symbols": [
+     "FGFR4",
+     "JTK2",
+     "CD334",
+     "TKF"
+    ],
+    "centroid": [
+     -0.271238,
+     0.821778,
+     0.170812,
+     -0.247036,
+     0.857473
+    ]
+   },
+   {
+    "symbols": [
+     "FOXA1",
+     "HNF3A"
+    ],
+    "centroid": [
+     -2.626947,
+     0.022827,
+     1.017457,
+     0.360758,
+     -0.782812
+    ]
+   },
+   {
+    "symbols": [
+     "FOXC1",
+     "FKHL7",
+     "IRID1",
+     "FREAC3",
+     "ARA",
+     "IGDA",
+     "IHG1"
+    ],
+    "centroid": [
+     1.490451,
+     -0.947174,
+     -0.174958,
+     -1.564855,
+     1.111548
+    ]
+   },
+   {
+    "symbols": [
+     "GPR160",
+     "GPCR150",
+     "GPCR1"
+    ],
+    "centroid": [
+     -1.054975,
+     0.583195,
+     0.68549,
+     0.714408,
+     -0.423568
+    ]
+   },
+   {
+    "symbols": [
+     "GRB7"
+    ],
+    "centroid": [
+     -0.276129,
+     1.030658,
+     0.041569,
+     0.087751,
+     0.241711
+    ]
+   },
+   {
+    "symbols": [
+     "KIF2C",
+     "KNSL6",
+     "MCAK",
+     "CT139"
+    ],
+    "centroid": [
+     0.203573,
+     -0.165102,
+     -0.505395,
+     -0.182891,
+     -0.390014
+    ]
+   },
+   {
+    "symbols": [
+     "NDC80",
+     "KNTC2",
+     "HEC",
+     "HEC1",
+     "hsNDC80",
+     "TID3"
+    ],
+    "centroid": [
+     0.600356,
+     0.042547,
+     -0.588221,
+     0.386707,
+     -1.069629
+    ]
+   },
+   {
+    "symbols": [
+     "KRT14",
+     "EBS3",
+     "EBS4"
+    ],
+    "centroid": [
+     0.096827,
+     -0.443646,
+     0.368376,
+     -0.639447,
+     1.735686
+    ]
+   },
+   {
+    "symbols": [
+     "KRT17",
+     "PCHC1"
+    ],
+    "centroid": [
+     0.482566,
+     -0.337837,
+     0.01421,
+     -1.463743,
+     1.759598
+    ]
+   },
+   {
+    "symbols": [
+     "KRT5",
+     "EBS2",
+     "KRT5A",
+     "CK-5"
+    ],
+    "centroid": [
+     0.50664,
+     -0.428262,
+     0.21532,
+     -0.911607,
+     1.785117
+    ]
+   },
+   {
+    "symbols": [
+     "MAPT",
+     "DDPAC",
+     "MAPTL",
+     "MTBT1",
+     "tau",
+     "PPND",
+     "FTDP-17",
+     "TAU",
+     "MSTD",
+     "MTBT2",
+     "FLJ31424",
+     "MGC138549",
+     "PPP1R103",
+     "tau-40",
+     "Tau-PHF6"
+    ],
+    "centroid": [
+     -0.425829,
+     -0.357507,
+     0.700623,
+     -0.190341,
+     0.117828
+    ]
+   },
+   {
+    "symbols": [
+     "MDM2",
+     "HDM2",
+     "MGC5370"
+    ],
+    "centroid": [
+     -0.251366,
+     -0.106729,
+     0.141957,
+     -0.133779,
+     0.274214
+    ]
+   },
+   {
+    "symbols": [
+     "MELK",
+     "KIAA0175"
+    ],
+    "centroid": [
+     0.523034,
+     0.198013,
+     -0.582088,
+     0.447935,
+     -0.743765
+    ]
+   },
+   {
+    "symbols": [
+     "MIA",
+     "CD-RAP",
+     "MIA1"
+    ],
+    "centroid": [
+     1.578276,
+     -0.904899,
+     -0.165259,
+     -1.422926,
+     2.03886
+    ]
+   },
+   {
+    "symbols": [
+     "MKI67",
+     "MIB-1",
+     "PPP1R105",
+     "Ki-67"
+    ],
+    "centroid": [
+     0.476537,
+     0.065662,
+     -0.501872,
+     -0.145218,
+     -0.166004
+    ]
+   },
+   {
+    "symbols": [
+     "MLPH",
+     "l1Rk3",
+     "l(1)-3Rk",
+     "Slac-2a",
+     "ln",
+     "exophilin-3",
+     "SLAC2-A"
+    ],
+    "centroid": [
+     -0.339972,
+     -0.195229,
+     0.339304,
+     -0.45615,
+     0.750758
+    ]
+   },
+   {
+    "symbols": [
+     "MMP11",
+     "STMY3"
+    ],
+    "centroid": [
+     -0.556038,
+     0.506759,
+     -0.006255,
+     0.334199,
+     -2.326985
+    ]
+   },
+   {
+    "symbols": [
+     "MYBL2",
+     "BMYB",
+     "B-MYB"
+    ],
+    "centroid": [
+     0.389893,
+     0.205264,
+     -0.84357,
+     0.467282,
+     -0.601705
+    ]
+   },
+   {
+    "symbols": [
+     "MYC",
+     "c-Myc",
+     "bHLHe39",
+     "MYCC"
+    ],
+    "centroid": [
+     0.178764,
+     -1.046833,
+     -0.090831,
+     0.015264,
+     1.029176
+    ]
+   },
+   {
+    "symbols": [
+     "NAT1",
+     "AAC1"
+    ],
+    "centroid": [
+     -0.936849,
+     -0.089988,
+     2.922787,
+     0.470788,
+     -0.363274
+    ]
+   },
+   {
+    "symbols": [
+     "ORC6",
+     "ORC6L"
+    ],
+    "centroid": [
+     0.216305,
+     0.204402,
+     -0.352221,
+     0.110628,
+     -0.255879
+    ]
+   },
+   {
+    "symbols": [
+     "PGR",
+     "PR",
+     "NR3C3"
+    ],
+    "centroid": [
+     -0.429133,
+     -0.27941,
+     0.445785,
+     -0.44884,
+     0.126011
+    ]
+   },
+   {
+    "symbols": [
+     "PHGDH",
+     "SERA",
+     "PGDH",
+     "PDG"
+    ],
+    "centroid": [
+     0.634519,
+     -0.186626,
+     -0.398682,
+     -1.030139,
+     0.660438
+    ]
+   },
+   {
+    "symbols": [
+     "PTTG1",
+     "TUTR1",
+     "PTTG",
+     "HPTTG",
+     "EAP1",
+     "securin",
+     "ECRAR"
+    ],
+    "centroid": [
+     0.264132,
+     0.05581,
+     -0.634468,
+     0.249725,
+     -0.549781
+    ]
+   },
+   {
+    "symbols": [
+     "RRM2",
+     "C2orf48",
+     "FLJ25102"
+    ],
+    "centroid": [
+     0.156205,
+     0.682725,
+     -0.95076,
+     0.350664,
+     -1.121055
+    ]
+   },
+   {
+    "symbols": [
+     "SFRP1",
+     "SARP2",
+     "FRP",
+     "FRP-1"
+    ],
+    "centroid": [
+     0.987988,
+     -1.048203,
+     0.131566,
+     -1.720458,
+     2.436289
+    ]
+   },
+   {
+    "symbols": [
+     "SLC39A6",
+     "LIV-1",
+     "ZIP6"
+    ],
+    "centroid": [
+     -1.051125,
+     -0.695736,
+     2.061459,
+     1.653303,
+     0.11689
+    ]
+   },
+   {
+    "symbols": [
+     "TMEM45B",
+     "BC016153",
+     "FLJ40787"
+    ],
+    "centroid": [
+     -1.109458,
+     1.330636,
+     0.446242,
+     0.375688,
+     0.036209
+    ]
+   },
+   {
+    "symbols": [
+     "TYMS",
+     "TS",
+     "Tsase",
+     "TMS",
+     "HsT422"
+    ],
+    "centroid": [
+     0.449801,
+     0.052945,
+     -0.644602,
+     0.492607,
+     -0.726989
+    ]
+   },
+   {
+    "symbols": [
+     "UBE2C",
+     "UBCH10"
+    ],
+    "centroid": [
+     0.218534,
+     0.061081,
+     -0.519818,
+     0.292799,
+     -0.408895
+    ]
+   },
+   {
+    "symbols": [
+     "UBE2T",
+     "HSPC150",
+     "FANCT"
+    ],
+    "centroid": [
+     0.389909,
+     0.284537,
+     -0.539259,
+     0.738952,
+     -0.952381
+    ]
+   }
+  ]
+ }
+}
